@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 1eacfcc6-46aa-471c-a8b1-43b39360b577
+  # title: Car Dependency and Essential-Service Accessibility in Burnie
+  toc:
+  - file: index.md
+
+  - title: Project
+    children:
+      - file: methods.md
+      - file: results.md
+      - file: discussion.md
+      - file: conclusion.md
+site:
+  template: book-theme
