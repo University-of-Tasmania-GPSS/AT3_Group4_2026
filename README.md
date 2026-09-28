@@ -1,2 +1,0 @@
-# AT3_Group4_2026
-AT3_Group4_2026
