@@ -1,0 +1,1457 @@
+from_id,to_id,travel_time,name,service_type
+60401107501,dest_01,10,Marist Regional College,School
+60401107501,dest_02,7,Stella Maris Primary School,School
+60401107501,dest_03,5,Montello Primary School,School
+60401107501,dest_04,6,Leighland Christian School,School
+60401107501,dest_05,9,Burnie High School,School
+60401107501,dest_06,8,Cooee Primary School,School
+60401107501,dest_07,7,Burnie Primary School,School
+60401107501,dest_08,4,Parklands High School,School
+60401107501,dest_09,2,Romaine Park Primary School,School
+60401107501,dest_10,7,Havenview Primary School,School
+60401107501,dest_11,2,Family Planning Clinic Burnie,Health
+60401107501,dest_12,5,Burnie Community Health Centre,Health
+60401107501,dest_13,5,Burnie Dental Centre,Health
+60401107501,dest_14,7,North West Regional Hospital,Health
+60401107501,dest_15,3,Acton Dental Clinic,Health
+60401107501,dest_16,3,Acton Child and Family Centre,Health
+60401107501,dest_17,8,North West Private Hospital,Health
+60401107501,dest_18,4,Pharmacy One,Pharmacy
+60401107501,dest_19,4,Advantage Pharmacy,Pharmacy
+60401107501,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107501,dest_21,1,Burnie Chemmart Pharmacy,Pharmacy
+60401107501,dest_22,6,TerryWhite Chemmart,Pharmacy
+60401107501,dest_23,4,Coles,Supermarket
+60401107501,dest_24,4,Syd's IGA Everyday,Supermarket
+60401107501,dest_25,3,Asian Flavours,Supermarket
+60401107501,dest_26,1,Woolworths,Supermarket
+60401107502,dest_01,9,Marist Regional College,School
+60401107502,dest_02,7,Stella Maris Primary School,School
+60401107502,dest_03,4,Montello Primary School,School
+60401107502,dest_04,5,Leighland Christian School,School
+60401107502,dest_05,8,Burnie High School,School
+60401107502,dest_06,7,Cooee Primary School,School
+60401107502,dest_07,7,Burnie Primary School,School
+60401107502,dest_08,6,Parklands High School,School
+60401107502,dest_09,4,Romaine Park Primary School,School
+60401107502,dest_10,9,Havenview Primary School,School
+60401107502,dest_11,3,Family Planning Clinic Burnie,Health
+60401107502,dest_12,4,Burnie Community Health Centre,Health
+60401107502,dest_13,4,Burnie Dental Centre,Health
+60401107502,dest_14,6,North West Regional Hospital,Health
+60401107502,dest_15,5,Acton Dental Clinic,Health
+60401107502,dest_16,5,Acton Child and Family Centre,Health
+60401107502,dest_17,8,North West Private Hospital,Health
+60401107502,dest_18,6,Pharmacy One,Pharmacy
+60401107502,dest_19,3,Advantage Pharmacy,Pharmacy
+60401107502,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107502,dest_21,3,Burnie Chemmart Pharmacy,Pharmacy
+60401107502,dest_22,6,TerryWhite Chemmart,Pharmacy
+60401107502,dest_23,4,Coles,Supermarket
+60401107502,dest_24,6,Syd's IGA Everyday,Supermarket
+60401107502,dest_25,2,Asian Flavours,Supermarket
+60401107502,dest_26,2,Woolworths,Supermarket
+60401107503,dest_01,10,Marist Regional College,School
+60401107503,dest_02,8,Stella Maris Primary School,School
+60401107503,dest_03,3,Montello Primary School,School
+60401107503,dest_04,7,Leighland Christian School,School
+60401107503,dest_05,9,Burnie High School,School
+60401107503,dest_06,8,Cooee Primary School,School
+60401107503,dest_07,8,Burnie Primary School,School
+60401107503,dest_08,6,Parklands High School,School
+60401107503,dest_09,4,Romaine Park Primary School,School
+60401107503,dest_10,9,Havenview Primary School,School
+60401107503,dest_11,2,Family Planning Clinic Burnie,Health
+60401107503,dest_12,6,Burnie Community Health Centre,Health
+60401107503,dest_13,5,Burnie Dental Centre,Health
+60401107503,dest_14,8,North West Regional Hospital,Health
+60401107503,dest_15,4,Acton Dental Clinic,Health
+60401107503,dest_16,4,Acton Child and Family Centre,Health
+60401107503,dest_17,9,North West Private Hospital,Health
+60401107503,dest_18,5,Pharmacy One,Pharmacy
+60401107503,dest_19,5,Advantage Pharmacy,Pharmacy
+60401107503,dest_20,4,Chemist Discount Centre,Pharmacy
+60401107503,dest_21,3,Burnie Chemmart Pharmacy,Pharmacy
+60401107503,dest_22,7,TerryWhite Chemmart,Pharmacy
+60401107503,dest_23,5,Coles,Supermarket
+60401107503,dest_24,5,Syd's IGA Everyday,Supermarket
+60401107503,dest_25,4,Asian Flavours,Supermarket
+60401107503,dest_26,2,Woolworths,Supermarket
+60401107504,dest_01,12,Marist Regional College,School
+60401107504,dest_02,10,Stella Maris Primary School,School
+60401107504,dest_03,5,Montello Primary School,School
+60401107504,dest_04,9,Leighland Christian School,School
+60401107504,dest_05,12,Burnie High School,School
+60401107504,dest_06,10,Cooee Primary School,School
+60401107504,dest_07,9,Burnie Primary School,School
+60401107504,dest_08,6,Parklands High School,School
+60401107504,dest_09,4,Romaine Park Primary School,School
+60401107504,dest_10,9,Havenview Primary School,School
+60401107504,dest_11,4,Family Planning Clinic Burnie,Health
+60401107504,dest_12,8,Burnie Community Health Centre,Health
+60401107504,dest_13,8,Burnie Dental Centre,Health
+60401107504,dest_14,10,North West Regional Hospital,Health
+60401107504,dest_15,1,Acton Dental Clinic,Health
+60401107504,dest_16,1,Acton Child and Family Centre,Health
+60401107504,dest_17,11,North West Private Hospital,Health
+60401107504,dest_18,2,Pharmacy One,Pharmacy
+60401107504,dest_19,7,Advantage Pharmacy,Pharmacy
+60401107504,dest_20,6,Chemist Discount Centre,Pharmacy
+60401107504,dest_21,4,Burnie Chemmart Pharmacy,Pharmacy
+60401107504,dest_22,9,TerryWhite Chemmart,Pharmacy
+60401107504,dest_23,7,Coles,Supermarket
+60401107504,dest_24,2,Syd's IGA Everyday,Supermarket
+60401107504,dest_25,6,Asian Flavours,Supermarket
+60401107504,dest_26,4,Woolworths,Supermarket
+60401107505,dest_01,11,Marist Regional College,School
+60401107505,dest_02,9,Stella Maris Primary School,School
+60401107505,dest_03,6,Montello Primary School,School
+60401107505,dest_04,8,Leighland Christian School,School
+60401107505,dest_05,10,Burnie High School,School
+60401107505,dest_06,9,Cooee Primary School,School
+60401107505,dest_07,9,Burnie Primary School,School
+60401107505,dest_08,4,Parklands High School,School
+60401107505,dest_09,2,Romaine Park Primary School,School
+60401107505,dest_10,7,Havenview Primary School,School
+60401107505,dest_11,3,Family Planning Clinic Burnie,Health
+60401107505,dest_12,7,Burnie Community Health Centre,Health
+60401107505,dest_13,6,Burnie Dental Centre,Health
+60401107505,dest_14,9,North West Regional Hospital,Health
+60401107505,dest_15,3,Acton Dental Clinic,Health
+60401107505,dest_16,3,Acton Child and Family Centre,Health
+60401107505,dest_17,10,North West Private Hospital,Health
+60401107505,dest_18,4,Pharmacy One,Pharmacy
+60401107505,dest_19,6,Advantage Pharmacy,Pharmacy
+60401107505,dest_20,5,Chemist Discount Centre,Pharmacy
+60401107505,dest_21,2,Burnie Chemmart Pharmacy,Pharmacy
+60401107505,dest_22,8,TerryWhite Chemmart,Pharmacy
+60401107505,dest_23,6,Coles,Supermarket
+60401107505,dest_24,4,Syd's IGA Everyday,Supermarket
+60401107505,dest_25,5,Asian Flavours,Supermarket
+60401107505,dest_26,2,Woolworths,Supermarket
+60401107506,dest_01,11,Marist Regional College,School
+60401107506,dest_02,9,Stella Maris Primary School,School
+60401107506,dest_03,4,Montello Primary School,School
+60401107506,dest_04,9,Leighland Christian School,School
+60401107506,dest_05,12,Burnie High School,School
+60401107506,dest_06,11,Cooee Primary School,School
+60401107506,dest_07,8,Burnie Primary School,School
+60401107506,dest_08,7,Parklands High School,School
+60401107506,dest_09,5,Romaine Park Primary School,School
+60401107506,dest_10,10,Havenview Primary School,School
+60401107506,dest_11,4,Family Planning Clinic Burnie,Health
+60401107506,dest_12,8,Burnie Community Health Centre,Health
+60401107506,dest_13,8,Burnie Dental Centre,Health
+60401107506,dest_14,10,North West Regional Hospital,Health
+60401107506,dest_15,2,Acton Dental Clinic,Health
+60401107506,dest_16,2,Acton Child and Family Centre,Health
+60401107506,dest_17,11,North West Private Hospital,Health
+60401107506,dest_18,3,Pharmacy One,Pharmacy
+60401107506,dest_19,7,Advantage Pharmacy,Pharmacy
+60401107506,dest_20,6,Chemist Discount Centre,Pharmacy
+60401107506,dest_21,4,Burnie Chemmart Pharmacy,Pharmacy
+60401107506,dest_22,9,TerryWhite Chemmart,Pharmacy
+60401107506,dest_23,7,Coles,Supermarket
+60401107506,dest_24,3,Syd's IGA Everyday,Supermarket
+60401107506,dest_25,6,Asian Flavours,Supermarket
+60401107506,dest_26,4,Woolworths,Supermarket
+60401107507,dest_01,11,Marist Regional College,School
+60401107507,dest_02,8,Stella Maris Primary School,School
+60401107507,dest_03,3,Montello Primary School,School
+60401107507,dest_04,7,Leighland Christian School,School
+60401107507,dest_05,10,Burnie High School,School
+60401107507,dest_06,9,Cooee Primary School,School
+60401107507,dest_07,8,Burnie Primary School,School
+60401107507,dest_08,6,Parklands High School,School
+60401107507,dest_09,4,Romaine Park Primary School,School
+60401107507,dest_10,9,Havenview Primary School,School
+60401107507,dest_11,2,Family Planning Clinic Burnie,Health
+60401107507,dest_12,6,Burnie Community Health Centre,Health
+60401107507,dest_13,6,Burnie Dental Centre,Health
+60401107507,dest_14,8,North West Regional Hospital,Health
+60401107507,dest_15,2,Acton Dental Clinic,Health
+60401107507,dest_16,2,Acton Child and Family Centre,Health
+60401107507,dest_17,9,North West Private Hospital,Health
+60401107507,dest_18,3,Pharmacy One,Pharmacy
+60401107507,dest_19,5,Advantage Pharmacy,Pharmacy
+60401107507,dest_20,4,Chemist Discount Centre,Pharmacy
+60401107507,dest_21,3,Burnie Chemmart Pharmacy,Pharmacy
+60401107507,dest_22,7,TerryWhite Chemmart,Pharmacy
+60401107507,dest_23,6,Coles,Supermarket
+60401107507,dest_24,3,Syd's IGA Everyday,Supermarket
+60401107507,dest_25,4,Asian Flavours,Supermarket
+60401107507,dest_26,2,Woolworths,Supermarket
+60401107508,dest_01,9,Marist Regional College,School
+60401107508,dest_02,7,Stella Maris Primary School,School
+60401107508,dest_03,5,Montello Primary School,School
+60401107508,dest_04,6,Leighland Christian School,School
+60401107508,dest_05,9,Burnie High School,School
+60401107508,dest_06,8,Cooee Primary School,School
+60401107508,dest_07,7,Burnie Primary School,School
+60401107508,dest_08,5,Parklands High School,School
+60401107508,dest_09,2,Romaine Park Primary School,School
+60401107508,dest_10,8,Havenview Primary School,School
+60401107508,dest_11,0,Family Planning Clinic Burnie,Health
+60401107508,dest_12,5,Burnie Community Health Centre,Health
+60401107508,dest_13,5,Burnie Dental Centre,Health
+60401107508,dest_14,7,North West Regional Hospital,Health
+60401107508,dest_15,3,Acton Dental Clinic,Health
+60401107508,dest_16,3,Acton Child and Family Centre,Health
+60401107508,dest_17,8,North West Private Hospital,Health
+60401107508,dest_18,4,Pharmacy One,Pharmacy
+60401107508,dest_19,4,Advantage Pharmacy,Pharmacy
+60401107508,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107508,dest_21,1,Burnie Chemmart Pharmacy,Pharmacy
+60401107508,dest_22,6,TerryWhite Chemmart,Pharmacy
+60401107508,dest_23,4,Coles,Supermarket
+60401107508,dest_24,4,Syd's IGA Everyday,Supermarket
+60401107508,dest_25,3,Asian Flavours,Supermarket
+60401107508,dest_26,0,Woolworths,Supermarket
+60401107601,dest_01,31,Marist Regional College,School
+60401107601,dest_02,29,Stella Maris Primary School,School
+60401107601,dest_03,29,Montello Primary School,School
+60401107601,dest_04,21,Leighland Christian School,School
+60401107601,dest_05,30,Burnie High School,School
+60401107601,dest_06,29,Cooee Primary School,School
+60401107601,dest_07,30,Burnie Primary School,School
+60401107601,dest_08,32,Parklands High School,School
+60401107601,dest_09,29,Romaine Park Primary School,School
+60401107601,dest_10,28,Havenview Primary School,School
+60401107601,dest_11,28,Family Planning Clinic Burnie,Health
+60401107601,dest_12,27,Burnie Community Health Centre,Health
+60401107601,dest_13,25,Burnie Dental Centre,Health
+60401107601,dest_14,29,North West Regional Hospital,Health
+60401107601,dest_15,30,Acton Dental Clinic,Health
+60401107601,dest_16,30,Acton Child and Family Centre,Health
+60401107601,dest_17,30,North West Private Hospital,Health
+60401107601,dest_18,31,Pharmacy One,Pharmacy
+60401107601,dest_19,26,Advantage Pharmacy,Pharmacy
+60401107601,dest_20,25,Chemist Discount Centre,Pharmacy
+60401107601,dest_21,28,Burnie Chemmart Pharmacy,Pharmacy
+60401107601,dest_22,28,TerryWhite Chemmart,Pharmacy
+60401107601,dest_23,27,Coles,Supermarket
+60401107601,dest_24,31,Syd's IGA Everyday,Supermarket
+60401107601,dest_25,25,Asian Flavours,Supermarket
+60401107601,dest_26,27,Woolworths,Supermarket
+60401107604,dest_01,40,Marist Regional College,School
+60401107604,dest_02,38,Stella Maris Primary School,School
+60401107604,dest_03,36,Montello Primary School,School
+60401107604,dest_04,35,Leighland Christian School,School
+60401107604,dest_05,39,Burnie High School,School
+60401107604,dest_06,38,Cooee Primary School,School
+60401107604,dest_07,37,Burnie Primary School,School
+60401107604,dest_08,33,Parklands High School,School
+60401107604,dest_09,32,Romaine Park Primary School,School
+60401107604,dest_10,33,Havenview Primary School,School
+60401107604,dest_11,34,Family Planning Clinic Burnie,Health
+60401107604,dest_12,37,Burnie Community Health Centre,Health
+60401107604,dest_13,36,Burnie Dental Centre,Health
+60401107604,dest_14,39,North West Regional Hospital,Health
+60401107604,dest_15,34,Acton Dental Clinic,Health
+60401107604,dest_16,35,Acton Child and Family Centre,Health
+60401107604,dest_17,40,North West Private Hospital,Health
+60401107604,dest_18,33,Pharmacy One,Pharmacy
+60401107604,dest_19,36,Advantage Pharmacy,Pharmacy
+60401107604,dest_20,35,Chemist Discount Centre,Pharmacy
+60401107604,dest_21,32,Burnie Chemmart Pharmacy,Pharmacy
+60401107604,dest_22,38,TerryWhite Chemmart,Pharmacy
+60401107604,dest_23,36,Coles,Supermarket
+60401107604,dest_24,33,Syd's IGA Everyday,Supermarket
+60401107604,dest_25,35,Asian Flavours,Supermarket
+60401107604,dest_26,32,Woolworths,Supermarket
+60401107606,dest_01,17,Marist Regional College,School
+60401107606,dest_02,14,Stella Maris Primary School,School
+60401107606,dest_03,15,Montello Primary School,School
+60401107606,dest_04,16,Leighland Christian School,School
+60401107606,dest_05,16,Burnie High School,School
+60401107606,dest_06,15,Cooee Primary School,School
+60401107606,dest_07,13,Burnie Primary School,School
+60401107606,dest_08,12,Parklands High School,School
+60401107606,dest_09,12,Romaine Park Primary School,School
+60401107606,dest_10,13,Havenview Primary School,School
+60401107606,dest_11,13,Family Planning Clinic Burnie,Health
+60401107606,dest_12,16,Burnie Community Health Centre,Health
+60401107606,dest_13,16,Burnie Dental Centre,Health
+60401107606,dest_14,15,North West Regional Hospital,Health
+60401107606,dest_15,10,Acton Dental Clinic,Health
+60401107606,dest_16,10,Acton Child and Family Centre,Health
+60401107606,dest_17,16,North West Private Hospital,Health
+60401107606,dest_18,8,Pharmacy One,Pharmacy
+60401107606,dest_19,15,Advantage Pharmacy,Pharmacy
+60401107606,dest_20,14,Chemist Discount Centre,Pharmacy
+60401107606,dest_21,12,Burnie Chemmart Pharmacy,Pharmacy
+60401107606,dest_22,15,TerryWhite Chemmart,Pharmacy
+60401107606,dest_23,15,Coles,Supermarket
+60401107606,dest_24,8,Syd's IGA Everyday,Supermarket
+60401107606,dest_25,14,Asian Flavours,Supermarket
+60401107606,dest_26,12,Woolworths,Supermarket
+60401107607,dest_01,23,Marist Regional College,School
+60401107607,dest_02,20,Stella Maris Primary School,School
+60401107607,dest_03,19,Montello Primary School,School
+60401107607,dest_04,17,Leighland Christian School,School
+60401107607,dest_05,21,Burnie High School,School
+60401107607,dest_06,20,Cooee Primary School,School
+60401107607,dest_07,19,Burnie Primary School,School
+60401107607,dest_08,15,Parklands High School,School
+60401107607,dest_09,14,Romaine Park Primary School,School
+60401107607,dest_10,15,Havenview Primary School,School
+60401107607,dest_11,16,Family Planning Clinic Burnie,Health
+60401107607,dest_12,19,Burnie Community Health Centre,Health
+60401107607,dest_13,18,Burnie Dental Centre,Health
+60401107607,dest_14,21,North West Regional Hospital,Health
+60401107607,dest_15,16,Acton Dental Clinic,Health
+60401107607,dest_16,17,Acton Child and Family Centre,Health
+60401107607,dest_17,22,North West Private Hospital,Health
+60401107607,dest_18,15,Pharmacy One,Pharmacy
+60401107607,dest_19,18,Advantage Pharmacy,Pharmacy
+60401107607,dest_20,17,Chemist Discount Centre,Pharmacy
+60401107607,dest_21,14,Burnie Chemmart Pharmacy,Pharmacy
+60401107607,dest_22,20,TerryWhite Chemmart,Pharmacy
+60401107607,dest_23,18,Coles,Supermarket
+60401107607,dest_24,15,Syd's IGA Everyday,Supermarket
+60401107607,dest_25,17,Asian Flavours,Supermarket
+60401107607,dest_26,15,Woolworths,Supermarket
+60401107608,dest_01,15,Marist Regional College,School
+60401107608,dest_02,13,Stella Maris Primary School,School
+60401107608,dest_03,13,Montello Primary School,School
+60401107608,dest_04,5,Leighland Christian School,School
+60401107608,dest_05,14,Burnie High School,School
+60401107608,dest_06,13,Cooee Primary School,School
+60401107608,dest_07,13,Burnie Primary School,School
+60401107608,dest_08,15,Parklands High School,School
+60401107608,dest_09,13,Romaine Park Primary School,School
+60401107608,dest_10,11,Havenview Primary School,School
+60401107608,dest_11,12,Family Planning Clinic Burnie,Health
+60401107608,dest_12,11,Burnie Community Health Centre,Health
+60401107608,dest_13,9,Burnie Dental Centre,Health
+60401107608,dest_14,12,North West Regional Hospital,Health
+60401107608,dest_15,14,Acton Dental Clinic,Health
+60401107608,dest_16,14,Acton Child and Family Centre,Health
+60401107608,dest_17,14,North West Private Hospital,Health
+60401107608,dest_18,15,Pharmacy One,Pharmacy
+60401107608,dest_19,10,Advantage Pharmacy,Pharmacy
+60401107608,dest_20,9,Chemist Discount Centre,Pharmacy
+60401107608,dest_21,12,Burnie Chemmart Pharmacy,Pharmacy
+60401107608,dest_22,12,TerryWhite Chemmart,Pharmacy
+60401107608,dest_23,10,Coles,Supermarket
+60401107608,dest_24,15,Syd's IGA Everyday,Supermarket
+60401107608,dest_25,9,Asian Flavours,Supermarket
+60401107608,dest_26,11,Woolworths,Supermarket
+60401107612,dest_01,19,Marist Regional College,School
+60401107612,dest_02,17,Stella Maris Primary School,School
+60401107612,dest_03,15,Montello Primary School,School
+60401107612,dest_04,14,Leighland Christian School,School
+60401107612,dest_05,18,Burnie High School,School
+60401107612,dest_06,17,Cooee Primary School,School
+60401107612,dest_07,16,Burnie Primary School,School
+60401107612,dest_08,12,Parklands High School,School
+60401107612,dest_09,11,Romaine Park Primary School,School
+60401107612,dest_10,12,Havenview Primary School,School
+60401107612,dest_11,13,Family Planning Clinic Burnie,Health
+60401107612,dest_12,16,Burnie Community Health Centre,Health
+60401107612,dest_13,15,Burnie Dental Centre,Health
+60401107612,dest_14,18,North West Regional Hospital,Health
+60401107612,dest_15,13,Acton Dental Clinic,Health
+60401107612,dest_16,14,Acton Child and Family Centre,Health
+60401107612,dest_17,19,North West Private Hospital,Health
+60401107612,dest_18,12,Pharmacy One,Pharmacy
+60401107612,dest_19,15,Advantage Pharmacy,Pharmacy
+60401107612,dest_20,14,Chemist Discount Centre,Pharmacy
+60401107612,dest_21,11,Burnie Chemmart Pharmacy,Pharmacy
+60401107612,dest_22,17,TerryWhite Chemmart,Pharmacy
+60401107612,dest_23,15,Coles,Supermarket
+60401107612,dest_24,12,Syd's IGA Everyday,Supermarket
+60401107612,dest_25,14,Asian Flavours,Supermarket
+60401107612,dest_26,11,Woolworths,Supermarket
+60401107701,dest_01,7,Marist Regional College,School
+60401107701,dest_02,5,Stella Maris Primary School,School
+60401107701,dest_03,0,Montello Primary School,School
+60401107701,dest_04,7,Leighland Christian School,School
+60401107701,dest_05,9,Burnie High School,School
+60401107701,dest_06,8,Cooee Primary School,School
+60401107701,dest_07,4,Burnie Primary School,School
+60401107701,dest_08,9,Parklands High School,School
+60401107701,dest_09,6,Romaine Park Primary School,School
+60401107701,dest_10,10,Havenview Primary School,School
+60401107701,dest_11,5,Family Planning Clinic Burnie,Health
+60401107701,dest_12,4,Burnie Community Health Centre,Health
+60401107701,dest_13,5,Burnie Dental Centre,Health
+60401107701,dest_14,6,North West Regional Hospital,Health
+60401107701,dest_15,5,Acton Dental Clinic,Health
+60401107701,dest_16,5,Acton Child and Family Centre,Health
+60401107701,dest_17,8,North West Private Hospital,Health
+60401107701,dest_18,6,Pharmacy One,Pharmacy
+60401107701,dest_19,4,Advantage Pharmacy,Pharmacy
+60401107701,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107701,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401107701,dest_22,6,TerryWhite Chemmart,Pharmacy
+60401107701,dest_23,5,Coles,Supermarket
+60401107701,dest_24,6,Syd's IGA Everyday,Supermarket
+60401107701,dest_25,3,Asian Flavours,Supermarket
+60401107701,dest_26,4,Woolworths,Supermarket
+60401107702,dest_01,8,Marist Regional College,School
+60401107702,dest_02,6,Stella Maris Primary School,School
+60401107702,dest_03,5,Montello Primary School,School
+60401107702,dest_04,4,Leighland Christian School,School
+60401107702,dest_05,7,Burnie High School,School
+60401107702,dest_06,6,Cooee Primary School,School
+60401107702,dest_07,6,Burnie Primary School,School
+60401107702,dest_08,8,Parklands High School,School
+60401107702,dest_09,6,Romaine Park Primary School,School
+60401107702,dest_10,7,Havenview Primary School,School
+60401107702,dest_11,5,Family Planning Clinic Burnie,Health
+60401107702,dest_12,3,Burnie Community Health Centre,Health
+60401107702,dest_13,3,Burnie Dental Centre,Health
+60401107702,dest_14,5,North West Regional Hospital,Health
+60401107702,dest_15,7,Acton Dental Clinic,Health
+60401107702,dest_16,7,Acton Child and Family Centre,Health
+60401107702,dest_17,7,North West Private Hospital,Health
+60401107702,dest_18,8,Pharmacy One,Pharmacy
+60401107702,dest_19,2,Advantage Pharmacy,Pharmacy
+60401107702,dest_20,2,Chemist Discount Centre,Pharmacy
+60401107702,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401107702,dest_22,5,TerryWhite Chemmart,Pharmacy
+60401107702,dest_23,3,Coles,Supermarket
+60401107702,dest_24,8,Syd's IGA Everyday,Supermarket
+60401107702,dest_25,2,Asian Flavours,Supermarket
+60401107702,dest_26,4,Woolworths,Supermarket
+60401107703,dest_01,6,Marist Regional College,School
+60401107703,dest_02,4,Stella Maris Primary School,School
+60401107703,dest_03,6,Montello Primary School,School
+60401107703,dest_04,6,Leighland Christian School,School
+60401107703,dest_05,6,Burnie High School,School
+60401107703,dest_06,4,Cooee Primary School,School
+60401107703,dest_07,5,Burnie Primary School,School
+60401107703,dest_08,9,Parklands High School,School
+60401107703,dest_09,6,Romaine Park Primary School,School
+60401107703,dest_10,9,Havenview Primary School,School
+60401107703,dest_11,6,Family Planning Clinic Burnie,Health
+60401107703,dest_12,2,Burnie Community Health Centre,Health
+60401107703,dest_13,5,Burnie Dental Centre,Health
+60401107703,dest_14,4,North West Regional Hospital,Health
+60401107703,dest_15,7,Acton Dental Clinic,Health
+60401107703,dest_16,7,Acton Child and Family Centre,Health
+60401107703,dest_17,5,North West Private Hospital,Health
+60401107703,dest_18,8,Pharmacy One,Pharmacy
+60401107703,dest_19,2,Advantage Pharmacy,Pharmacy
+60401107703,dest_20,1,Chemist Discount Centre,Pharmacy
+60401107703,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401107703,dest_22,3,TerryWhite Chemmart,Pharmacy
+60401107703,dest_23,2,Coles,Supermarket
+60401107703,dest_24,8,Syd's IGA Everyday,Supermarket
+60401107703,dest_25,2,Asian Flavours,Supermarket
+60401107703,dest_26,4,Woolworths,Supermarket
+60401107704,dest_01,7,Marist Regional College,School
+60401107704,dest_02,5,Stella Maris Primary School,School
+60401107704,dest_03,4,Montello Primary School,School
+60401107704,dest_04,4,Leighland Christian School,School
+60401107704,dest_05,6,Burnie High School,School
+60401107704,dest_06,5,Cooee Primary School,School
+60401107704,dest_07,4,Burnie Primary School,School
+60401107704,dest_08,7,Parklands High School,School
+60401107704,dest_09,5,Romaine Park Primary School,School
+60401107704,dest_10,7,Havenview Primary School,School
+60401107704,dest_11,4,Family Planning Clinic Burnie,Health
+60401107704,dest_12,1,Burnie Community Health Centre,Health
+60401107704,dest_13,3,Burnie Dental Centre,Health
+60401107704,dest_14,5,North West Regional Hospital,Health
+60401107704,dest_15,5,Acton Dental Clinic,Health
+60401107704,dest_16,5,Acton Child and Family Centre,Health
+60401107704,dest_17,6,North West Private Hospital,Health
+60401107704,dest_18,7,Pharmacy One,Pharmacy
+60401107704,dest_19,0,Advantage Pharmacy,Pharmacy
+60401107704,dest_20,0,Chemist Discount Centre,Pharmacy
+60401107704,dest_21,3,Burnie Chemmart Pharmacy,Pharmacy
+60401107704,dest_22,4,TerryWhite Chemmart,Pharmacy
+60401107704,dest_23,1,Coles,Supermarket
+60401107704,dest_24,7,Syd's IGA Everyday,Supermarket
+60401107704,dest_25,1,Asian Flavours,Supermarket
+60401107704,dest_26,3,Woolworths,Supermarket
+60401107705,dest_01,10,Marist Regional College,School
+60401107705,dest_02,8,Stella Maris Primary School,School
+60401107705,dest_03,8,Montello Primary School,School
+60401107705,dest_04,6,Leighland Christian School,School
+60401107705,dest_05,9,Burnie High School,School
+60401107705,dest_06,8,Cooee Primary School,School
+60401107705,dest_07,9,Burnie Primary School,School
+60401107705,dest_08,11,Parklands High School,School
+60401107705,dest_09,8,Romaine Park Primary School,School
+60401107705,dest_10,9,Havenview Primary School,School
+60401107705,dest_11,8,Family Planning Clinic Burnie,Health
+60401107705,dest_12,6,Burnie Community Health Centre,Health
+60401107705,dest_13,4,Burnie Dental Centre,Health
+60401107705,dest_14,8,North West Regional Hospital,Health
+60401107705,dest_15,9,Acton Dental Clinic,Health
+60401107705,dest_16,9,Acton Child and Family Centre,Health
+60401107705,dest_17,9,North West Private Hospital,Health
+60401107705,dest_18,10,Pharmacy One,Pharmacy
+60401107705,dest_19,5,Advantage Pharmacy,Pharmacy
+60401107705,dest_20,5,Chemist Discount Centre,Pharmacy
+60401107705,dest_21,7,Burnie Chemmart Pharmacy,Pharmacy
+60401107705,dest_22,7,TerryWhite Chemmart,Pharmacy
+60401107705,dest_23,6,Coles,Supermarket
+60401107705,dest_24,10,Syd's IGA Everyday,Supermarket
+60401107705,dest_25,4,Asian Flavours,Supermarket
+60401107705,dest_26,6,Woolworths,Supermarket
+60401107706,dest_01,9,Marist Regional College,School
+60401107706,dest_02,7,Stella Maris Primary School,School
+60401107706,dest_03,7,Montello Primary School,School
+60401107706,dest_04,4,Leighland Christian School,School
+60401107706,dest_05,9,Burnie High School,School
+60401107706,dest_06,7,Cooee Primary School,School
+60401107706,dest_07,8,Burnie Primary School,School
+60401107706,dest_08,10,Parklands High School,School
+60401107706,dest_09,7,Romaine Park Primary School,School
+60401107706,dest_10,7,Havenview Primary School,School
+60401107706,dest_11,7,Family Planning Clinic Burnie,Health
+60401107706,dest_12,6,Burnie Community Health Centre,Health
+60401107706,dest_13,3,Burnie Dental Centre,Health
+60401107706,dest_14,7,North West Regional Hospital,Health
+60401107706,dest_15,8,Acton Dental Clinic,Health
+60401107706,dest_16,8,Acton Child and Family Centre,Health
+60401107706,dest_17,8,North West Private Hospital,Health
+60401107706,dest_18,10,Pharmacy One,Pharmacy
+60401107706,dest_19,5,Advantage Pharmacy,Pharmacy
+60401107706,dest_20,4,Chemist Discount Centre,Pharmacy
+60401107706,dest_21,6,Burnie Chemmart Pharmacy,Pharmacy
+60401107706,dest_22,6,TerryWhite Chemmart,Pharmacy
+60401107706,dest_23,5,Coles,Supermarket
+60401107706,dest_24,10,Syd's IGA Everyday,Supermarket
+60401107706,dest_25,4,Asian Flavours,Supermarket
+60401107706,dest_26,6,Woolworths,Supermarket
+60401107707,dest_01,7,Marist Regional College,School
+60401107707,dest_02,5,Stella Maris Primary School,School
+60401107707,dest_03,0,Montello Primary School,School
+60401107707,dest_04,6,Leighland Christian School,School
+60401107707,dest_05,9,Burnie High School,School
+60401107707,dest_06,8,Cooee Primary School,School
+60401107707,dest_07,4,Burnie Primary School,School
+60401107707,dest_08,9,Parklands High School,School
+60401107707,dest_09,7,Romaine Park Primary School,School
+60401107707,dest_10,10,Havenview Primary School,School
+60401107707,dest_11,5,Family Planning Clinic Burnie,Health
+60401107707,dest_12,4,Burnie Community Health Centre,Health
+60401107707,dest_13,5,Burnie Dental Centre,Health
+60401107707,dest_14,7,North West Regional Hospital,Health
+60401107707,dest_15,5,Acton Dental Clinic,Health
+60401107707,dest_16,5,Acton Child and Family Centre,Health
+60401107707,dest_17,8,North West Private Hospital,Health
+60401107707,dest_18,6,Pharmacy One,Pharmacy
+60401107707,dest_19,4,Advantage Pharmacy,Pharmacy
+60401107707,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107707,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401107707,dest_22,6,TerryWhite Chemmart,Pharmacy
+60401107707,dest_23,5,Coles,Supermarket
+60401107707,dest_24,6,Syd's IGA Everyday,Supermarket
+60401107707,dest_25,3,Asian Flavours,Supermarket
+60401107707,dest_26,5,Woolworths,Supermarket
+60401107708,dest_01,9,Marist Regional College,School
+60401107708,dest_02,7,Stella Maris Primary School,School
+60401107708,dest_03,2,Montello Primary School,School
+60401107708,dest_04,6,Leighland Christian School,School
+60401107708,dest_05,9,Burnie High School,School
+60401107708,dest_06,7,Cooee Primary School,School
+60401107708,dest_07,7,Burnie Primary School,School
+60401107708,dest_08,7,Parklands High School,School
+60401107708,dest_09,5,Romaine Park Primary School,School
+60401107708,dest_10,9,Havenview Primary School,School
+60401107708,dest_11,4,Family Planning Clinic Burnie,Health
+60401107708,dest_12,5,Burnie Community Health Centre,Health
+60401107708,dest_13,5,Burnie Dental Centre,Health
+60401107708,dest_14,7,North West Regional Hospital,Health
+60401107708,dest_15,5,Acton Dental Clinic,Health
+60401107708,dest_16,5,Acton Child and Family Centre,Health
+60401107708,dest_17,8,North West Private Hospital,Health
+60401107708,dest_18,6,Pharmacy One,Pharmacy
+60401107708,dest_19,4,Advantage Pharmacy,Pharmacy
+60401107708,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107708,dest_21,3,Burnie Chemmart Pharmacy,Pharmacy
+60401107708,dest_22,6,TerryWhite Chemmart,Pharmacy
+60401107708,dest_23,4,Coles,Supermarket
+60401107708,dest_24,6,Syd's IGA Everyday,Supermarket
+60401107708,dest_25,3,Asian Flavours,Supermarket
+60401107708,dest_26,3,Woolworths,Supermarket
+60401107709,dest_01,14,Marist Regional College,School
+60401107709,dest_02,11,Stella Maris Primary School,School
+60401107709,dest_03,11,Montello Primary School,School
+60401107709,dest_04,4,Leighland Christian School,School
+60401107709,dest_05,13,Burnie High School,School
+60401107709,dest_06,12,Cooee Primary School,School
+60401107709,dest_07,12,Burnie Primary School,School
+60401107709,dest_08,14,Parklands High School,School
+60401107709,dest_09,12,Romaine Park Primary School,School
+60401107709,dest_10,10,Havenview Primary School,School
+60401107709,dest_11,11,Family Planning Clinic Burnie,Health
+60401107709,dest_12,10,Burnie Community Health Centre,Health
+60401107709,dest_13,8,Burnie Dental Centre,Health
+60401107709,dest_14,11,North West Regional Hospital,Health
+60401107709,dest_15,12,Acton Dental Clinic,Health
+60401107709,dest_16,13,Acton Child and Family Centre,Health
+60401107709,dest_17,12,North West Private Hospital,Health
+60401107709,dest_18,14,Pharmacy One,Pharmacy
+60401107709,dest_19,9,Advantage Pharmacy,Pharmacy
+60401107709,dest_20,8,Chemist Discount Centre,Pharmacy
+60401107709,dest_21,10,Burnie Chemmart Pharmacy,Pharmacy
+60401107709,dest_22,10,TerryWhite Chemmart,Pharmacy
+60401107709,dest_23,9,Coles,Supermarket
+60401107709,dest_24,14,Syd's IGA Everyday,Supermarket
+60401107709,dest_25,8,Asian Flavours,Supermarket
+60401107709,dest_26,10,Woolworths,Supermarket
+60401107710,dest_01,8,Marist Regional College,School
+60401107710,dest_02,6,Stella Maris Primary School,School
+60401107710,dest_03,6,Montello Primary School,School
+60401107710,dest_04,3,Leighland Christian School,School
+60401107710,dest_05,7,Burnie High School,School
+60401107710,dest_06,6,Cooee Primary School,School
+60401107710,dest_07,7,Burnie Primary School,School
+60401107710,dest_08,9,Parklands High School,School
+60401107710,dest_09,6,Romaine Park Primary School,School
+60401107710,dest_10,7,Havenview Primary School,School
+60401107710,dest_11,5,Family Planning Clinic Burnie,Health
+60401107710,dest_12,4,Burnie Community Health Centre,Health
+60401107710,dest_13,2,Burnie Dental Centre,Health
+60401107710,dest_14,6,North West Regional Hospital,Health
+60401107710,dest_15,7,Acton Dental Clinic,Health
+60401107710,dest_16,7,Acton Child and Family Centre,Health
+60401107710,dest_17,7,North West Private Hospital,Health
+60401107710,dest_18,8,Pharmacy One,Pharmacy
+60401107710,dest_19,3,Advantage Pharmacy,Pharmacy
+60401107710,dest_20,2,Chemist Discount Centre,Pharmacy
+60401107710,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401107710,dest_22,5,TerryWhite Chemmart,Pharmacy
+60401107710,dest_23,4,Coles,Supermarket
+60401107710,dest_24,8,Syd's IGA Everyday,Supermarket
+60401107710,dest_25,2,Asian Flavours,Supermarket
+60401107710,dest_26,4,Woolworths,Supermarket
+60401107711,dest_01,9,Marist Regional College,School
+60401107711,dest_02,7,Stella Maris Primary School,School
+60401107711,dest_03,2,Montello Primary School,School
+60401107711,dest_04,6,Leighland Christian School,School
+60401107711,dest_05,9,Burnie High School,School
+60401107711,dest_06,8,Cooee Primary School,School
+60401107711,dest_07,6,Burnie Primary School,School
+60401107711,dest_08,7,Parklands High School,School
+60401107711,dest_09,4,Romaine Park Primary School,School
+60401107711,dest_10,10,Havenview Primary School,School
+60401107711,dest_11,3,Family Planning Clinic Burnie,Health
+60401107711,dest_12,5,Burnie Community Health Centre,Health
+60401107711,dest_13,5,Burnie Dental Centre,Health
+60401107711,dest_14,7,North West Regional Hospital,Health
+60401107711,dest_15,4,Acton Dental Clinic,Health
+60401107711,dest_16,4,Acton Child and Family Centre,Health
+60401107711,dest_17,9,North West Private Hospital,Health
+60401107711,dest_18,5,Pharmacy One,Pharmacy
+60401107711,dest_19,4,Advantage Pharmacy,Pharmacy
+60401107711,dest_20,4,Chemist Discount Centre,Pharmacy
+60401107711,dest_21,3,Burnie Chemmart Pharmacy,Pharmacy
+60401107711,dest_22,7,TerryWhite Chemmart,Pharmacy
+60401107711,dest_23,5,Coles,Supermarket
+60401107711,dest_24,5,Syd's IGA Everyday,Supermarket
+60401107711,dest_25,3,Asian Flavours,Supermarket
+60401107711,dest_26,2,Woolworths,Supermarket
+60401107712,dest_01,9,Marist Regional College,School
+60401107712,dest_02,7,Stella Maris Primary School,School
+60401107712,dest_03,1,Montello Primary School,School
+60401107712,dest_04,7,Leighland Christian School,School
+60401107712,dest_05,10,Burnie High School,School
+60401107712,dest_06,9,Cooee Primary School,School
+60401107712,dest_07,6,Burnie Primary School,School
+60401107712,dest_08,8,Parklands High School,School
+60401107712,dest_09,6,Romaine Park Primary School,School
+60401107712,dest_10,11,Havenview Primary School,School
+60401107712,dest_11,4,Family Planning Clinic Burnie,Health
+60401107712,dest_12,6,Burnie Community Health Centre,Health
+60401107712,dest_13,6,Burnie Dental Centre,Health
+60401107712,dest_14,9,North West Regional Hospital,Health
+60401107712,dest_15,4,Acton Dental Clinic,Health
+60401107712,dest_16,4,Acton Child and Family Centre,Health
+60401107712,dest_17,10,North West Private Hospital,Health
+60401107712,dest_18,4,Pharmacy One,Pharmacy
+60401107712,dest_19,6,Advantage Pharmacy,Pharmacy
+60401107712,dest_20,5,Chemist Discount Centre,Pharmacy
+60401107712,dest_21,4,Burnie Chemmart Pharmacy,Pharmacy
+60401107712,dest_22,8,TerryWhite Chemmart,Pharmacy
+60401107712,dest_23,6,Coles,Supermarket
+60401107712,dest_24,4,Syd's IGA Everyday,Supermarket
+60401107712,dest_25,5,Asian Flavours,Supermarket
+60401107712,dest_26,4,Woolworths,Supermarket
+60401107713,dest_01,6,Marist Regional College,School
+60401107713,dest_02,3,Stella Maris Primary School,School
+60401107713,dest_03,2,Montello Primary School,School
+60401107713,dest_04,6,Leighland Christian School,School
+60401107713,dest_05,8,Burnie High School,School
+60401107713,dest_06,7,Cooee Primary School,School
+60401107713,dest_07,3,Burnie Primary School,School
+60401107713,dest_08,9,Parklands High School,School
+60401107713,dest_09,7,Romaine Park Primary School,School
+60401107713,dest_10,9,Havenview Primary School,School
+60401107713,dest_11,6,Family Planning Clinic Burnie,Health
+60401107713,dest_12,3,Burnie Community Health Centre,Health
+60401107713,dest_13,5,Burnie Dental Centre,Health
+60401107713,dest_14,5,North West Regional Hospital,Health
+60401107713,dest_15,7,Acton Dental Clinic,Health
+60401107713,dest_16,7,Acton Child and Family Centre,Health
+60401107713,dest_17,6,North West Private Hospital,Health
+60401107713,dest_18,7,Pharmacy One,Pharmacy
+60401107713,dest_19,4,Advantage Pharmacy,Pharmacy
+60401107713,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107713,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401107713,dest_22,5,TerryWhite Chemmart,Pharmacy
+60401107713,dest_23,4,Coles,Supermarket
+60401107713,dest_24,8,Syd's IGA Everyday,Supermarket
+60401107713,dest_25,2,Asian Flavours,Supermarket
+60401107713,dest_26,5,Woolworths,Supermarket
+60401107801,dest_01,7,Marist Regional College,School
+60401107801,dest_02,4,Stella Maris Primary School,School
+60401107801,dest_03,6,Montello Primary School,School
+60401107801,dest_04,8,Leighland Christian School,School
+60401107801,dest_05,9,Burnie High School,School
+60401107801,dest_06,8,Cooee Primary School,School
+60401107801,dest_07,0,Burnie Primary School,School
+60401107801,dest_08,12,Parklands High School,School
+60401107801,dest_09,10,Romaine Park Primary School,School
+60401107801,dest_10,11,Havenview Primary School,School
+60401107801,dest_11,9,Family Planning Clinic Burnie,Health
+60401107801,dest_12,6,Burnie Community Health Centre,Health
+60401107801,dest_13,7,Burnie Dental Centre,Health
+60401107801,dest_14,6,North West Regional Hospital,Health
+60401107801,dest_15,10,Acton Dental Clinic,Health
+60401107801,dest_16,10,Acton Child and Family Centre,Health
+60401107801,dest_17,7,North West Private Hospital,Health
+60401107801,dest_18,8,Pharmacy One,Pharmacy
+60401107801,dest_19,6,Advantage Pharmacy,Pharmacy
+60401107801,dest_20,5,Chemist Discount Centre,Pharmacy
+60401107801,dest_21,8,Burnie Chemmart Pharmacy,Pharmacy
+60401107801,dest_22,6,TerryWhite Chemmart,Pharmacy
+60401107801,dest_23,6,Coles,Supermarket
+60401107801,dest_24,8,Syd's IGA Everyday,Supermarket
+60401107801,dest_25,5,Asian Flavours,Supermarket
+60401107801,dest_26,7,Woolworths,Supermarket
+60401107802,dest_01,11,Marist Regional College,School
+60401107802,dest_02,9,Stella Maris Primary School,School
+60401107802,dest_03,7,Montello Primary School,School
+60401107802,dest_04,10,Leighland Christian School,School
+60401107802,dest_05,13,Burnie High School,School
+60401107802,dest_06,11,Cooee Primary School,School
+60401107802,dest_07,7,Burnie Primary School,School
+60401107802,dest_08,6,Parklands High School,School
+60401107802,dest_09,6,Romaine Park Primary School,School
+60401107802,dest_10,10,Havenview Primary School,School
+60401107802,dest_11,5,Family Planning Clinic Burnie,Health
+60401107802,dest_12,9,Burnie Community Health Centre,Health
+60401107802,dest_13,9,Burnie Dental Centre,Health
+60401107802,dest_14,10,North West Regional Hospital,Health
+60401107802,dest_15,2,Acton Dental Clinic,Health
+60401107802,dest_16,2,Acton Child and Family Centre,Health
+60401107802,dest_17,11,North West Private Hospital,Health
+60401107802,dest_18,1,Pharmacy One,Pharmacy
+60401107802,dest_19,8,Advantage Pharmacy,Pharmacy
+60401107802,dest_20,7,Chemist Discount Centre,Pharmacy
+60401107802,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401107802,dest_22,10,TerryWhite Chemmart,Pharmacy
+60401107802,dest_23,9,Coles,Supermarket
+60401107802,dest_24,1,Syd's IGA Everyday,Supermarket
+60401107802,dest_25,7,Asian Flavours,Supermarket
+60401107802,dest_26,5,Woolworths,Supermarket
+60401107803,dest_01,9,Marist Regional College,School
+60401107803,dest_02,7,Stella Maris Primary School,School
+60401107803,dest_03,8,Montello Primary School,School
+60401107803,dest_04,11,Leighland Christian School,School
+60401107803,dest_05,11,Burnie High School,School
+60401107803,dest_06,10,Cooee Primary School,School
+60401107803,dest_07,6,Burnie Primary School,School
+60401107803,dest_08,8,Parklands High School,School
+60401107803,dest_09,7,Romaine Park Primary School,School
+60401107803,dest_10,12,Havenview Primary School,School
+60401107803,dest_11,7,Family Planning Clinic Burnie,Health
+60401107803,dest_12,8,Burnie Community Health Centre,Health
+60401107803,dest_13,10,Burnie Dental Centre,Health
+60401107803,dest_14,8,North West Regional Hospital,Health
+60401107803,dest_15,3,Acton Dental Clinic,Health
+60401107803,dest_16,4,Acton Child and Family Centre,Health
+60401107803,dest_17,9,North West Private Hospital,Health
+60401107803,dest_18,2,Pharmacy One,Pharmacy
+60401107803,dest_19,8,Advantage Pharmacy,Pharmacy
+60401107803,dest_20,8,Chemist Discount Centre,Pharmacy
+60401107803,dest_21,7,Burnie Chemmart Pharmacy,Pharmacy
+60401107803,dest_22,8,TerryWhite Chemmart,Pharmacy
+60401107803,dest_23,9,Coles,Supermarket
+60401107803,dest_24,2,Syd's IGA Everyday,Supermarket
+60401107803,dest_25,8,Asian Flavours,Supermarket
+60401107803,dest_26,7,Woolworths,Supermarket
+60401107804,dest_01,13,Marist Regional College,School
+60401107804,dest_02,10,Stella Maris Primary School,School
+60401107804,dest_03,7,Montello Primary School,School
+60401107804,dest_04,10,Leighland Christian School,School
+60401107804,dest_05,13,Burnie High School,School
+60401107804,dest_06,12,Cooee Primary School,School
+60401107804,dest_07,9,Burnie Primary School,School
+60401107804,dest_08,5,Parklands High School,School
+60401107804,dest_09,5,Romaine Park Primary School,School
+60401107804,dest_10,9,Havenview Primary School,School
+60401107804,dest_11,5,Family Planning Clinic Burnie,Health
+60401107804,dest_12,9,Burnie Community Health Centre,Health
+60401107804,dest_13,9,Burnie Dental Centre,Health
+60401107804,dest_14,11,North West Regional Hospital,Health
+60401107804,dest_15,2,Acton Dental Clinic,Health
+60401107804,dest_16,2,Acton Child and Family Centre,Health
+60401107804,dest_17,12,North West Private Hospital,Health
+60401107804,dest_18,2,Pharmacy One,Pharmacy
+60401107804,dest_19,8,Advantage Pharmacy,Pharmacy
+60401107804,dest_20,7,Chemist Discount Centre,Pharmacy
+60401107804,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401107804,dest_22,10,TerryWhite Chemmart,Pharmacy
+60401107804,dest_23,8,Coles,Supermarket
+60401107804,dest_24,2,Syd's IGA Everyday,Supermarket
+60401107804,dest_25,7,Asian Flavours,Supermarket
+60401107804,dest_26,5,Woolworths,Supermarket
+60401107805,dest_01,10,Marist Regional College,School
+60401107805,dest_02,8,Stella Maris Primary School,School
+60401107805,dest_03,10,Montello Primary School,School
+60401107805,dest_04,12,Leighland Christian School,School
+60401107805,dest_05,7,Burnie High School,School
+60401107805,dest_06,6,Cooee Primary School,School
+60401107805,dest_07,7,Burnie Primary School,School
+60401107805,dest_08,12,Parklands High School,School
+60401107805,dest_09,12,Romaine Park Primary School,School
+60401107805,dest_10,15,Havenview Primary School,School
+60401107805,dest_11,12,Family Planning Clinic Burnie,Health
+60401107805,dest_12,9,Burnie Community Health Centre,Health
+60401107805,dest_13,11,Burnie Dental Centre,Health
+60401107805,dest_14,8,North West Regional Hospital,Health
+60401107805,dest_15,10,Acton Dental Clinic,Health
+60401107805,dest_16,10,Acton Child and Family Centre,Health
+60401107805,dest_17,9,North West Private Hospital,Health
+60401107805,dest_18,8,Pharmacy One,Pharmacy
+60401107805,dest_19,9,Advantage Pharmacy,Pharmacy
+60401107805,dest_20,9,Chemist Discount Centre,Pharmacy
+60401107805,dest_21,12,Burnie Chemmart Pharmacy,Pharmacy
+60401107805,dest_22,6,TerryWhite Chemmart,Pharmacy
+60401107805,dest_23,10,Coles,Supermarket
+60401107805,dest_24,8,Syd's IGA Everyday,Supermarket
+60401107805,dest_25,9,Asian Flavours,Supermarket
+60401107805,dest_26,11,Woolworths,Supermarket
+60401107806,dest_01,5,Marist Regional College,School
+60401107806,dest_02,3,Stella Maris Primary School,School
+60401107806,dest_03,7,Montello Primary School,School
+60401107806,dest_04,7,Leighland Christian School,School
+60401107806,dest_05,4,Burnie High School,School
+60401107806,dest_06,3,Cooee Primary School,School
+60401107806,dest_07,4,Burnie Primary School,School
+60401107806,dest_08,10,Parklands High School,School
+60401107806,dest_09,8,Romaine Park Primary School,School
+60401107806,dest_10,10,Havenview Primary School,School
+60401107806,dest_11,7,Family Planning Clinic Burnie,Health
+60401107806,dest_12,4,Burnie Community Health Centre,Health
+60401107806,dest_13,6,Burnie Dental Centre,Health
+60401107806,dest_14,2,North West Regional Hospital,Health
+60401107806,dest_15,9,Acton Dental Clinic,Health
+60401107806,dest_16,9,Acton Child and Family Centre,Health
+60401107806,dest_17,3,North West Private Hospital,Health
+60401107806,dest_18,8,Pharmacy One,Pharmacy
+60401107806,dest_19,5,Advantage Pharmacy,Pharmacy
+60401107806,dest_20,4,Chemist Discount Centre,Pharmacy
+60401107806,dest_21,7,Burnie Chemmart Pharmacy,Pharmacy
+60401107806,dest_22,2,TerryWhite Chemmart,Pharmacy
+60401107806,dest_23,5,Coles,Supermarket
+60401107806,dest_24,8,Syd's IGA Everyday,Supermarket
+60401107806,dest_25,5,Asian Flavours,Supermarket
+60401107806,dest_26,6,Woolworths,Supermarket
+60401107807,dest_01,8,Marist Regional College,School
+60401107807,dest_02,6,Stella Maris Primary School,School
+60401107807,dest_03,7,Montello Primary School,School
+60401107807,dest_04,10,Leighland Christian School,School
+60401107807,dest_05,10,Burnie High School,School
+60401107807,dest_06,8,Cooee Primary School,School
+60401107807,dest_07,4,Burnie Primary School,School
+60401107807,dest_08,13,Parklands High School,School
+60401107807,dest_09,11,Romaine Park Primary School,School
+60401107807,dest_10,13,Havenview Primary School,School
+60401107807,dest_11,10,Family Planning Clinic Burnie,Health
+60401107807,dest_12,7,Burnie Community Health Centre,Health
+60401107807,dest_13,8,Burnie Dental Centre,Health
+60401107807,dest_14,7,North West Regional Hospital,Health
+60401107807,dest_15,9,Acton Dental Clinic,Health
+60401107807,dest_16,9,Acton Child and Family Centre,Health
+60401107807,dest_17,8,North West Private Hospital,Health
+60401107807,dest_18,7,Pharmacy One,Pharmacy
+60401107807,dest_19,7,Advantage Pharmacy,Pharmacy
+60401107807,dest_20,7,Chemist Discount Centre,Pharmacy
+60401107807,dest_21,9,Burnie Chemmart Pharmacy,Pharmacy
+60401107807,dest_22,7,TerryWhite Chemmart,Pharmacy
+60401107807,dest_23,8,Coles,Supermarket
+60401107807,dest_24,7,Syd's IGA Everyday,Supermarket
+60401107807,dest_25,7,Asian Flavours,Supermarket
+60401107807,dest_26,9,Woolworths,Supermarket
+60401107808,dest_01,10,Marist Regional College,School
+60401107808,dest_02,8,Stella Maris Primary School,School
+60401107808,dest_03,11,Montello Primary School,School
+60401107808,dest_04,10,Leighland Christian School,School
+60401107808,dest_05,4,Burnie High School,School
+60401107808,dest_06,3,Cooee Primary School,School
+60401107808,dest_07,9,Burnie Primary School,School
+60401107808,dest_08,13,Parklands High School,School
+60401107808,dest_09,11,Romaine Park Primary School,School
+60401107808,dest_10,13,Havenview Primary School,School
+60401107808,dest_11,10,Family Planning Clinic Burnie,Health
+60401107808,dest_12,7,Burnie Community Health Centre,Health
+60401107808,dest_13,8,Burnie Dental Centre,Health
+60401107808,dest_14,5,North West Regional Hospital,Health
+60401107808,dest_15,12,Acton Dental Clinic,Health
+60401107808,dest_16,12,Acton Child and Family Centre,Health
+60401107808,dest_17,6,North West Private Hospital,Health
+60401107808,dest_18,12,Pharmacy One,Pharmacy
+60401107808,dest_19,7,Advantage Pharmacy,Pharmacy
+60401107808,dest_20,7,Chemist Discount Centre,Pharmacy
+60401107808,dest_21,10,Burnie Chemmart Pharmacy,Pharmacy
+60401107808,dest_22,3,TerryWhite Chemmart,Pharmacy
+60401107808,dest_23,8,Coles,Supermarket
+60401107808,dest_24,12,Syd's IGA Everyday,Supermarket
+60401107808,dest_25,7,Asian Flavours,Supermarket
+60401107808,dest_26,9,Woolworths,Supermarket
+60401107809,dest_01,5,Marist Regional College,School
+60401107809,dest_02,2,Stella Maris Primary School,School
+60401107809,dest_03,6,Montello Primary School,School
+60401107809,dest_04,6,Leighland Christian School,School
+60401107809,dest_05,4,Burnie High School,School
+60401107809,dest_06,3,Cooee Primary School,School
+60401107809,dest_07,4,Burnie Primary School,School
+60401107809,dest_08,9,Parklands High School,School
+60401107809,dest_09,7,Romaine Park Primary School,School
+60401107809,dest_10,9,Havenview Primary School,School
+60401107809,dest_11,6,Family Planning Clinic Burnie,Health
+60401107809,dest_12,3,Burnie Community Health Centre,Health
+60401107809,dest_13,4,Burnie Dental Centre,Health
+60401107809,dest_14,2,North West Regional Hospital,Health
+60401107809,dest_15,8,Acton Dental Clinic,Health
+60401107809,dest_16,8,Acton Child and Family Centre,Health
+60401107809,dest_17,4,North West Private Hospital,Health
+60401107809,dest_18,9,Pharmacy One,Pharmacy
+60401107809,dest_19,3,Advantage Pharmacy,Pharmacy
+60401107809,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107809,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401107809,dest_22,2,TerryWhite Chemmart,Pharmacy
+60401107809,dest_23,4,Coles,Supermarket
+60401107809,dest_24,9,Syd's IGA Everyday,Supermarket
+60401107809,dest_25,3,Asian Flavours,Supermarket
+60401107809,dest_26,5,Woolworths,Supermarket
+60401107810,dest_01,5,Marist Regional College,School
+60401107810,dest_02,2,Stella Maris Primary School,School
+60401107810,dest_03,6,Montello Primary School,School
+60401107810,dest_04,5,Leighland Christian School,School
+60401107810,dest_05,5,Burnie High School,School
+60401107810,dest_06,4,Cooee Primary School,School
+60401107810,dest_07,3,Burnie Primary School,School
+60401107810,dest_08,8,Parklands High School,School
+60401107810,dest_09,6,Romaine Park Primary School,School
+60401107810,dest_10,8,Havenview Primary School,School
+60401107810,dest_11,5,Family Planning Clinic Burnie,Health
+60401107810,dest_12,2,Burnie Community Health Centre,Health
+60401107810,dest_13,4,Burnie Dental Centre,Health
+60401107810,dest_14,4,North West Regional Hospital,Health
+60401107810,dest_15,7,Acton Dental Clinic,Health
+60401107810,dest_16,7,Acton Child and Family Centre,Health
+60401107810,dest_17,5,North West Private Hospital,Health
+60401107810,dest_18,8,Pharmacy One,Pharmacy
+60401107810,dest_19,2,Advantage Pharmacy,Pharmacy
+60401107810,dest_20,2,Chemist Discount Centre,Pharmacy
+60401107810,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401107810,dest_22,3,TerryWhite Chemmart,Pharmacy
+60401107810,dest_23,3,Coles,Supermarket
+60401107810,dest_24,8,Syd's IGA Everyday,Supermarket
+60401107810,dest_25,2,Asian Flavours,Supermarket
+60401107810,dest_26,4,Woolworths,Supermarket
+60401107811,dest_01,11,Marist Regional College,School
+60401107811,dest_02,8,Stella Maris Primary School,School
+60401107811,dest_03,10,Montello Primary School,School
+60401107811,dest_04,12,Leighland Christian School,School
+60401107811,dest_05,12,Burnie High School,School
+60401107811,dest_06,11,Cooee Primary School,School
+60401107811,dest_07,7,Burnie Primary School,School
+60401107811,dest_08,12,Parklands High School,School
+60401107811,dest_09,11,Romaine Park Primary School,School
+60401107811,dest_10,15,Havenview Primary School,School
+60401107811,dest_11,10,Family Planning Clinic Burnie,Health
+60401107811,dest_12,10,Burnie Community Health Centre,Health
+60401107811,dest_13,11,Burnie Dental Centre,Health
+60401107811,dest_14,9,North West Regional Hospital,Health
+60401107811,dest_15,7,Acton Dental Clinic,Health
+60401107811,dest_16,7,Acton Child and Family Centre,Health
+60401107811,dest_17,10,North West Private Hospital,Health
+60401107811,dest_18,5,Pharmacy One,Pharmacy
+60401107811,dest_19,10,Advantage Pharmacy,Pharmacy
+60401107811,dest_20,9,Chemist Discount Centre,Pharmacy
+60401107811,dest_21,10,Burnie Chemmart Pharmacy,Pharmacy
+60401107811,dest_22,9,TerryWhite Chemmart,Pharmacy
+60401107811,dest_23,10,Coles,Supermarket
+60401107811,dest_24,5,Syd's IGA Everyday,Supermarket
+60401107811,dest_25,9,Asian Flavours,Supermarket
+60401107811,dest_26,10,Woolworths,Supermarket
+60401107812,dest_01,5,Marist Regional College,School
+60401107812,dest_02,3,Stella Maris Primary School,School
+60401107812,dest_03,6,Montello Primary School,School
+60401107812,dest_04,6,Leighland Christian School,School
+60401107812,dest_05,7,Burnie High School,School
+60401107812,dest_06,6,Cooee Primary School,School
+60401107812,dest_07,4,Burnie Primary School,School
+60401107812,dest_08,10,Parklands High School,School
+60401107812,dest_09,8,Romaine Park Primary School,School
+60401107812,dest_10,10,Havenview Primary School,School
+60401107812,dest_11,7,Family Planning Clinic Burnie,Health
+60401107812,dest_12,4,Burnie Community Health Centre,Health
+60401107812,dest_13,5,Burnie Dental Centre,Health
+60401107812,dest_14,5,North West Regional Hospital,Health
+60401107812,dest_15,8,Acton Dental Clinic,Health
+60401107812,dest_16,8,Acton Child and Family Centre,Health
+60401107812,dest_17,7,North West Private Hospital,Health
+60401107812,dest_18,8,Pharmacy One,Pharmacy
+60401107812,dest_19,4,Advantage Pharmacy,Pharmacy
+60401107812,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107812,dest_21,6,Burnie Chemmart Pharmacy,Pharmacy
+60401107812,dest_22,4,TerryWhite Chemmart,Pharmacy
+60401107812,dest_23,4,Coles,Supermarket
+60401107812,dest_24,8,Syd's IGA Everyday,Supermarket
+60401107812,dest_25,4,Asian Flavours,Supermarket
+60401107812,dest_26,6,Woolworths,Supermarket
+60401107813,dest_01,9,Marist Regional College,School
+60401107813,dest_02,7,Stella Maris Primary School,School
+60401107813,dest_03,10,Montello Primary School,School
+60401107813,dest_04,9,Leighland Christian School,School
+60401107813,dest_05,3,Burnie High School,School
+60401107813,dest_06,2,Cooee Primary School,School
+60401107813,dest_07,8,Burnie Primary School,School
+60401107813,dest_08,12,Parklands High School,School
+60401107813,dest_09,10,Romaine Park Primary School,School
+60401107813,dest_10,12,Havenview Primary School,School
+60401107813,dest_11,9,Family Planning Clinic Burnie,Health
+60401107813,dest_12,6,Burnie Community Health Centre,Health
+60401107813,dest_13,7,Burnie Dental Centre,Health
+60401107813,dest_14,4,North West Regional Hospital,Health
+60401107813,dest_15,11,Acton Dental Clinic,Health
+60401107813,dest_16,11,Acton Child and Family Centre,Health
+60401107813,dest_17,5,North West Private Hospital,Health
+60401107813,dest_18,12,Pharmacy One,Pharmacy
+60401107813,dest_19,6,Advantage Pharmacy,Pharmacy
+60401107813,dest_20,6,Chemist Discount Centre,Pharmacy
+60401107813,dest_21,9,Burnie Chemmart Pharmacy,Pharmacy
+60401107813,dest_22,2,TerryWhite Chemmart,Pharmacy
+60401107813,dest_23,7,Coles,Supermarket
+60401107813,dest_24,12,Syd's IGA Everyday,Supermarket
+60401107813,dest_25,6,Asian Flavours,Supermarket
+60401107813,dest_26,8,Woolworths,Supermarket
+60401107814,dest_01,6,Marist Regional College,School
+60401107814,dest_02,3,Stella Maris Primary School,School
+60401107814,dest_03,7,Montello Primary School,School
+60401107814,dest_04,6,Leighland Christian School,School
+60401107814,dest_05,3,Burnie High School,School
+60401107814,dest_06,2,Cooee Primary School,School
+60401107814,dest_07,5,Burnie Primary School,School
+60401107814,dest_08,10,Parklands High School,School
+60401107814,dest_09,8,Romaine Park Primary School,School
+60401107814,dest_10,9,Havenview Primary School,School
+60401107814,dest_11,7,Family Planning Clinic Burnie,Health
+60401107814,dest_12,4,Burnie Community Health Centre,Health
+60401107814,dest_13,5,Burnie Dental Centre,Health
+60401107814,dest_14,0,North West Regional Hospital,Health
+60401107814,dest_15,8,Acton Dental Clinic,Health
+60401107814,dest_16,8,Acton Child and Family Centre,Health
+60401107814,dest_17,1,North West Private Hospital,Health
+60401107814,dest_18,9,Pharmacy One,Pharmacy
+60401107814,dest_19,4,Advantage Pharmacy,Pharmacy
+60401107814,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107814,dest_21,6,Burnie Chemmart Pharmacy,Pharmacy
+60401107814,dest_22,1,TerryWhite Chemmart,Pharmacy
+60401107814,dest_23,4,Coles,Supermarket
+60401107814,dest_24,9,Syd's IGA Everyday,Supermarket
+60401107814,dest_25,4,Asian Flavours,Supermarket
+60401107814,dest_26,6,Woolworths,Supermarket
+60401107815,dest_01,2,Marist Regional College,School
+60401107815,dest_02,3,Stella Maris Primary School,School
+60401107815,dest_03,7,Montello Primary School,School
+60401107815,dest_04,7,Leighland Christian School,School
+60401107815,dest_05,7,Burnie High School,School
+60401107815,dest_06,5,Cooee Primary School,School
+60401107815,dest_07,5,Burnie Primary School,School
+60401107815,dest_08,11,Parklands High School,School
+60401107815,dest_09,9,Romaine Park Primary School,School
+60401107815,dest_10,11,Havenview Primary School,School
+60401107815,dest_11,8,Family Planning Clinic Burnie,Health
+60401107815,dest_12,5,Burnie Community Health Centre,Health
+60401107815,dest_13,6,Burnie Dental Centre,Health
+60401107815,dest_14,5,North West Regional Hospital,Health
+60401107815,dest_15,9,Acton Dental Clinic,Health
+60401107815,dest_16,10,Acton Child and Family Centre,Health
+60401107815,dest_17,6,North West Private Hospital,Health
+60401107815,dest_18,9,Pharmacy One,Pharmacy
+60401107815,dest_19,5,Advantage Pharmacy,Pharmacy
+60401107815,dest_20,5,Chemist Discount Centre,Pharmacy
+60401107815,dest_21,7,Burnie Chemmart Pharmacy,Pharmacy
+60401107815,dest_22,4,TerryWhite Chemmart,Pharmacy
+60401107815,dest_23,6,Coles,Supermarket
+60401107815,dest_24,9,Syd's IGA Everyday,Supermarket
+60401107815,dest_25,5,Asian Flavours,Supermarket
+60401107815,dest_26,7,Woolworths,Supermarket
+60401107816,dest_01,4,Marist Regional College,School
+60401107816,dest_02,1,Stella Maris Primary School,School
+60401107816,dest_03,5,Montello Primary School,School
+60401107816,dest_04,6,Leighland Christian School,School
+60401107816,dest_05,7,Burnie High School,School
+60401107816,dest_06,6,Cooee Primary School,School
+60401107816,dest_07,2,Burnie Primary School,School
+60401107816,dest_08,10,Parklands High School,School
+60401107816,dest_09,8,Romaine Park Primary School,School
+60401107816,dest_10,9,Havenview Primary School,School
+60401107816,dest_11,7,Family Planning Clinic Burnie,Health
+60401107816,dest_12,4,Burnie Community Health Centre,Health
+60401107816,dest_13,5,Burnie Dental Centre,Health
+60401107816,dest_14,4,North West Regional Hospital,Health
+60401107816,dest_15,8,Acton Dental Clinic,Health
+60401107816,dest_16,8,Acton Child and Family Centre,Health
+60401107816,dest_17,5,North West Private Hospital,Health
+60401107816,dest_18,7,Pharmacy One,Pharmacy
+60401107816,dest_19,4,Advantage Pharmacy,Pharmacy
+60401107816,dest_20,3,Chemist Discount Centre,Pharmacy
+60401107816,dest_21,6,Burnie Chemmart Pharmacy,Pharmacy
+60401107816,dest_22,4,TerryWhite Chemmart,Pharmacy
+60401107816,dest_23,4,Coles,Supermarket
+60401107816,dest_24,7,Syd's IGA Everyday,Supermarket
+60401107816,dest_25,4,Asian Flavours,Supermarket
+60401107816,dest_26,5,Woolworths,Supermarket
+60401107817,dest_01,11,Marist Regional College,School
+60401107817,dest_02,8,Stella Maris Primary School,School
+60401107817,dest_03,9,Montello Primary School,School
+60401107817,dest_04,12,Leighland Christian School,School
+60401107817,dest_05,12,Burnie High School,School
+60401107817,dest_06,11,Cooee Primary School,School
+60401107817,dest_07,7,Burnie Primary School,School
+60401107817,dest_08,8,Parklands High School,School
+60401107817,dest_09,8,Romaine Park Primary School,School
+60401107817,dest_10,12,Havenview Primary School,School
+60401107817,dest_11,7,Family Planning Clinic Burnie,Health
+60401107817,dest_12,10,Burnie Community Health Centre,Health
+60401107817,dest_13,11,Burnie Dental Centre,Health
+60401107817,dest_14,9,North West Regional Hospital,Health
+60401107817,dest_15,4,Acton Dental Clinic,Health
+60401107817,dest_16,4,Acton Child and Family Centre,Health
+60401107817,dest_17,10,North West Private Hospital,Health
+60401107817,dest_18,2,Pharmacy One,Pharmacy
+60401107817,dest_19,10,Advantage Pharmacy,Pharmacy
+60401107817,dest_20,9,Chemist Discount Centre,Pharmacy
+60401107817,dest_21,7,Burnie Chemmart Pharmacy,Pharmacy
+60401107817,dest_22,9,TerryWhite Chemmart,Pharmacy
+60401107817,dest_23,10,Coles,Supermarket
+60401107817,dest_24,2,Syd's IGA Everyday,Supermarket
+60401107817,dest_25,9,Asian Flavours,Supermarket
+60401107817,dest_26,7,Woolworths,Supermarket
+60401107818,dest_01,12,Marist Regional College,School
+60401107818,dest_02,9,Stella Maris Primary School,School
+60401107818,dest_03,8,Montello Primary School,School
+60401107818,dest_04,11,Leighland Christian School,School
+60401107818,dest_05,13,Burnie High School,School
+60401107818,dest_06,12,Cooee Primary School,School
+60401107818,dest_07,8,Burnie Primary School,School
+60401107818,dest_08,6,Parklands High School,School
+60401107818,dest_09,6,Romaine Park Primary School,School
+60401107818,dest_10,10,Havenview Primary School,School
+60401107818,dest_11,6,Family Planning Clinic Burnie,Health
+60401107818,dest_12,10,Burnie Community Health Centre,Health
+60401107818,dest_13,10,Burnie Dental Centre,Health
+60401107818,dest_14,10,North West Regional Hospital,Health
+60401107818,dest_15,3,Acton Dental Clinic,Health
+60401107818,dest_16,3,Acton Child and Family Centre,Health
+60401107818,dest_17,11,North West Private Hospital,Health
+60401107818,dest_18,2,Pharmacy One,Pharmacy
+60401107818,dest_19,9,Advantage Pharmacy,Pharmacy
+60401107818,dest_20,8,Chemist Discount Centre,Pharmacy
+60401107818,dest_21,6,Burnie Chemmart Pharmacy,Pharmacy
+60401107818,dest_22,11,TerryWhite Chemmart,Pharmacy
+60401107818,dest_23,10,Coles,Supermarket
+60401107818,dest_24,2,Syd's IGA Everyday,Supermarket
+60401107818,dest_25,8,Asian Flavours,Supermarket
+60401107818,dest_26,6,Woolworths,Supermarket
+60401108001,dest_01,10,Marist Regional College,School
+60401108001,dest_02,8,Stella Maris Primary School,School
+60401108001,dest_03,8,Montello Primary School,School
+60401108001,dest_04,4,Leighland Christian School,School
+60401108001,dest_05,9,Burnie High School,School
+60401108001,dest_06,8,Cooee Primary School,School
+60401108001,dest_07,8,Burnie Primary School,School
+60401108001,dest_08,7,Parklands High School,School
+60401108001,dest_09,4,Romaine Park Primary School,School
+60401108001,dest_10,7,Havenview Primary School,School
+60401108001,dest_11,6,Family Planning Clinic Burnie,Health
+60401108001,dest_12,6,Burnie Community Health Centre,Health
+60401108001,dest_13,3,Burnie Dental Centre,Health
+60401108001,dest_14,7,North West Regional Hospital,Health
+60401108001,dest_15,7,Acton Dental Clinic,Health
+60401108001,dest_16,7,Acton Child and Family Centre,Health
+60401108001,dest_17,9,North West Private Hospital,Health
+60401108001,dest_18,8,Pharmacy One,Pharmacy
+60401108001,dest_19,5,Advantage Pharmacy,Pharmacy
+60401108001,dest_20,4,Chemist Discount Centre,Pharmacy
+60401108001,dest_21,5,Burnie Chemmart Pharmacy,Pharmacy
+60401108001,dest_22,7,TerryWhite Chemmart,Pharmacy
+60401108001,dest_23,5,Coles,Supermarket
+60401108001,dest_24,8,Syd's IGA Everyday,Supermarket
+60401108001,dest_25,4,Asian Flavours,Supermarket
+60401108001,dest_26,5,Woolworths,Supermarket
+60401108002,dest_01,12,Marist Regional College,School
+60401108002,dest_02,10,Stella Maris Primary School,School
+60401108002,dest_03,8,Montello Primary School,School
+60401108002,dest_04,6,Leighland Christian School,School
+60401108002,dest_05,11,Burnie High School,School
+60401108002,dest_06,10,Cooee Primary School,School
+60401108002,dest_07,11,Burnie Primary School,School
+60401108002,dest_08,7,Parklands High School,School
+60401108002,dest_09,3,Romaine Park Primary School,School
+60401108002,dest_10,10,Havenview Primary School,School
+60401108002,dest_11,5,Family Planning Clinic Burnie,Health
+60401108002,dest_12,8,Burnie Community Health Centre,Health
+60401108002,dest_13,6,Burnie Dental Centre,Health
+60401108002,dest_14,10,North West Regional Hospital,Health
+60401108002,dest_15,6,Acton Dental Clinic,Health
+60401108002,dest_16,6,Acton Child and Family Centre,Health
+60401108002,dest_17,11,North West Private Hospital,Health
+60401108002,dest_18,7,Pharmacy One,Pharmacy
+60401108002,dest_19,7,Advantage Pharmacy,Pharmacy
+60401108002,dest_20,6,Chemist Discount Centre,Pharmacy
+60401108002,dest_21,4,Burnie Chemmart Pharmacy,Pharmacy
+60401108002,dest_22,9,TerryWhite Chemmart,Pharmacy
+60401108002,dest_23,8,Coles,Supermarket
+60401108002,dest_24,7,Syd's IGA Everyday,Supermarket
+60401108002,dest_25,6,Asian Flavours,Supermarket
+60401108002,dest_26,4,Woolworths,Supermarket
+60401108003,dest_01,12,Marist Regional College,School
+60401108003,dest_02,10,Stella Maris Primary School,School
+60401108003,dest_03,7,Montello Primary School,School
+60401108003,dest_04,8,Leighland Christian School,School
+60401108003,dest_05,11,Burnie High School,School
+60401108003,dest_06,10,Cooee Primary School,School
+60401108003,dest_07,10,Burnie Primary School,School
+60401108003,dest_08,5,Parklands High School,School
+60401108003,dest_09,3,Romaine Park Primary School,School
+60401108003,dest_10,9,Havenview Primary School,School
+60401108003,dest_11,5,Family Planning Clinic Burnie,Health
+60401108003,dest_12,8,Burnie Community Health Centre,Health
+60401108003,dest_13,7,Burnie Dental Centre,Health
+60401108003,dest_14,10,North West Regional Hospital,Health
+60401108003,dest_15,5,Acton Dental Clinic,Health
+60401108003,dest_16,6,Acton Child and Family Centre,Health
+60401108003,dest_17,11,North West Private Hospital,Health
+60401108003,dest_18,7,Pharmacy One,Pharmacy
+60401108003,dest_19,7,Advantage Pharmacy,Pharmacy
+60401108003,dest_20,6,Chemist Discount Centre,Pharmacy
+60401108003,dest_21,3,Burnie Chemmart Pharmacy,Pharmacy
+60401108003,dest_22,9,TerryWhite Chemmart,Pharmacy
+60401108003,dest_23,7,Coles,Supermarket
+60401108003,dest_24,7,Syd's IGA Everyday,Supermarket
+60401108003,dest_25,6,Asian Flavours,Supermarket
+60401108003,dest_26,3,Woolworths,Supermarket
+60401108004,dest_01,12,Marist Regional College,School
+60401108004,dest_02,10,Stella Maris Primary School,School
+60401108004,dest_03,8,Montello Primary School,School
+60401108004,dest_04,9,Leighland Christian School,School
+60401108004,dest_05,12,Burnie High School,School
+60401108004,dest_06,10,Cooee Primary School,School
+60401108004,dest_07,10,Burnie Primary School,School
+60401108004,dest_08,4,Parklands High School,School
+60401108004,dest_09,4,Romaine Park Primary School,School
+60401108004,dest_10,7,Havenview Primary School,School
+60401108004,dest_11,5,Family Planning Clinic Burnie,Health
+60401108004,dest_12,8,Burnie Community Health Centre,Health
+60401108004,dest_13,8,Burnie Dental Centre,Health
+60401108004,dest_14,10,North West Regional Hospital,Health
+60401108004,dest_15,5,Acton Dental Clinic,Health
+60401108004,dest_16,6,Acton Child and Family Centre,Health
+60401108004,dest_17,11,North West Private Hospital,Health
+60401108004,dest_18,7,Pharmacy One,Pharmacy
+60401108004,dest_19,7,Advantage Pharmacy,Pharmacy
+60401108004,dest_20,6,Chemist Discount Centre,Pharmacy
+60401108004,dest_21,3,Burnie Chemmart Pharmacy,Pharmacy
+60401108004,dest_22,9,TerryWhite Chemmart,Pharmacy
+60401108004,dest_23,7,Coles,Supermarket
+60401108004,dest_24,7,Syd's IGA Everyday,Supermarket
+60401108004,dest_25,6,Asian Flavours,Supermarket
+60401108004,dest_26,4,Woolworths,Supermarket
+60401108005,dest_01,11,Marist Regional College,School
+60401108005,dest_02,9,Stella Maris Primary School,School
+60401108005,dest_03,7,Montello Primary School,School
+60401108005,dest_04,8,Leighland Christian School,School
+60401108005,dest_05,11,Burnie High School,School
+60401108005,dest_06,9,Cooee Primary School,School
+60401108005,dest_07,9,Burnie Primary School,School
+60401108005,dest_08,3,Parklands High School,School
+60401108005,dest_09,3,Romaine Park Primary School,School
+60401108005,dest_10,6,Havenview Primary School,School
+60401108005,dest_11,4,Family Planning Clinic Burnie,Health
+60401108005,dest_12,7,Burnie Community Health Centre,Health
+60401108005,dest_13,7,Burnie Dental Centre,Health
+60401108005,dest_14,9,North West Regional Hospital,Health
+60401108005,dest_15,5,Acton Dental Clinic,Health
+60401108005,dest_16,5,Acton Child and Family Centre,Health
+60401108005,dest_17,10,North West Private Hospital,Health
+60401108005,dest_18,6,Pharmacy One,Pharmacy
+60401108005,dest_19,6,Advantage Pharmacy,Pharmacy
+60401108005,dest_20,5,Chemist Discount Centre,Pharmacy
+60401108005,dest_21,3,Burnie Chemmart Pharmacy,Pharmacy
+60401108005,dest_22,8,TerryWhite Chemmart,Pharmacy
+60401108005,dest_23,6,Coles,Supermarket
+60401108005,dest_24,6,Syd's IGA Everyday,Supermarket
+60401108005,dest_25,5,Asian Flavours,Supermarket
+60401108005,dest_26,3,Woolworths,Supermarket
+60401108006,dest_01,11,Marist Regional College,School
+60401108006,dest_02,8,Stella Maris Primary School,School
+60401108006,dest_03,6,Montello Primary School,School
+60401108006,dest_04,7,Leighland Christian School,School
+60401108006,dest_05,10,Burnie High School,School
+60401108006,dest_06,9,Cooee Primary School,School
+60401108006,dest_07,9,Burnie Primary School,School
+60401108006,dest_08,3,Parklands High School,School
+60401108006,dest_09,2,Romaine Park Primary School,School
+60401108006,dest_10,7,Havenview Primary School,School
+60401108006,dest_11,3,Family Planning Clinic Burnie,Health
+60401108006,dest_12,6,Burnie Community Health Centre,Health
+60401108006,dest_13,6,Burnie Dental Centre,Health
+60401108006,dest_14,8,North West Regional Hospital,Health
+60401108006,dest_15,4,Acton Dental Clinic,Health
+60401108006,dest_16,4,Acton Child and Family Centre,Health
+60401108006,dest_17,9,North West Private Hospital,Health
+60401108006,dest_18,5,Pharmacy One,Pharmacy
+60401108006,dest_19,5,Advantage Pharmacy,Pharmacy
+60401108006,dest_20,4,Chemist Discount Centre,Pharmacy
+60401108006,dest_21,2,Burnie Chemmart Pharmacy,Pharmacy
+60401108006,dest_22,7,TerryWhite Chemmart,Pharmacy
+60401108006,dest_23,6,Coles,Supermarket
+60401108006,dest_24,5,Syd's IGA Everyday,Supermarket
+60401108006,dest_25,4,Asian Flavours,Supermarket
+60401108006,dest_26,2,Woolworths,Supermarket
+60401108007,dest_01,10,Marist Regional College,School
+60401108007,dest_02,8,Stella Maris Primary School,School
+60401108007,dest_03,8,Montello Primary School,School
+60401108007,dest_04,3,Leighland Christian School,School
+60401108007,dest_05,9,Burnie High School,School
+60401108007,dest_06,8,Cooee Primary School,School
+60401108007,dest_07,9,Burnie Primary School,School
+60401108007,dest_08,8,Parklands High School,School
+60401108007,dest_09,7,Romaine Park Primary School,School
+60401108007,dest_10,3,Havenview Primary School,School
+60401108007,dest_11,7,Family Planning Clinic Burnie,Health
+60401108007,dest_12,6,Burnie Community Health Centre,Health
+60401108007,dest_13,4,Burnie Dental Centre,Health
+60401108007,dest_14,8,North West Regional Hospital,Health
+60401108007,dest_15,9,Acton Dental Clinic,Health
+60401108007,dest_16,9,Acton Child and Family Centre,Health
+60401108007,dest_17,9,North West Private Hospital,Health
+60401108007,dest_18,10,Pharmacy One,Pharmacy
+60401108007,dest_19,5,Advantage Pharmacy,Pharmacy
+60401108007,dest_20,5,Chemist Discount Centre,Pharmacy
+60401108007,dest_21,7,Burnie Chemmart Pharmacy,Pharmacy
+60401108007,dest_22,7,TerryWhite Chemmart,Pharmacy
+60401108007,dest_23,6,Coles,Supermarket
+60401108007,dest_24,10,Syd's IGA Everyday,Supermarket
+60401108007,dest_25,4,Asian Flavours,Supermarket
+60401108007,dest_26,6,Woolworths,Supermarket
+60401108008,dest_01,12,Marist Regional College,School
+60401108008,dest_02,10,Stella Maris Primary School,School
+60401108008,dest_03,10,Montello Primary School,School
+60401108008,dest_04,5,Leighland Christian School,School
+60401108008,dest_05,11,Burnie High School,School
+60401108008,dest_06,10,Cooee Primary School,School
+60401108008,dest_07,10,Burnie Primary School,School
+60401108008,dest_08,7,Parklands High School,School
+60401108008,dest_09,6,Romaine Park Primary School,School
+60401108008,dest_10,2,Havenview Primary School,School
+60401108008,dest_11,8,Family Planning Clinic Burnie,Health
+60401108008,dest_12,8,Burnie Community Health Centre,Health
+60401108008,dest_13,6,Burnie Dental Centre,Health
+60401108008,dest_14,9,North West Regional Hospital,Health
+60401108008,dest_15,8,Acton Dental Clinic,Health
+60401108008,dest_16,9,Acton Child and Family Centre,Health
+60401108008,dest_17,11,North West Private Hospital,Health
+60401108008,dest_18,10,Pharmacy One,Pharmacy
+60401108008,dest_19,7,Advantage Pharmacy,Pharmacy
+60401108008,dest_20,6,Chemist Discount Centre,Pharmacy
+60401108008,dest_21,6,Burnie Chemmart Pharmacy,Pharmacy
+60401108008,dest_22,9,TerryWhite Chemmart,Pharmacy
+60401108008,dest_23,7,Coles,Supermarket
+60401108008,dest_24,10,Syd's IGA Everyday,Supermarket
+60401108008,dest_25,6,Asian Flavours,Supermarket
+60401108008,dest_26,7,Woolworths,Supermarket
+60401108009,dest_01,11,Marist Regional College,School
+60401108009,dest_02,9,Stella Maris Primary School,School
+60401108009,dest_03,9,Montello Primary School,School
+60401108009,dest_04,5,Leighland Christian School,School
+60401108009,dest_05,11,Burnie High School,School
+60401108009,dest_06,9,Cooee Primary School,School
+60401108009,dest_07,10,Burnie Primary School,School
+60401108009,dest_08,5,Parklands High School,School
+60401108009,dest_09,4,Romaine Park Primary School,School
+60401108009,dest_10,2,Havenview Primary School,School
+60401108009,dest_11,6,Family Planning Clinic Burnie,Health
+60401108009,dest_12,8,Burnie Community Health Centre,Health
+60401108009,dest_13,6,Burnie Dental Centre,Health
+60401108009,dest_14,9,North West Regional Hospital,Health
+60401108009,dest_15,6,Acton Dental Clinic,Health
+60401108009,dest_16,7,Acton Child and Family Centre,Health
+60401108009,dest_17,10,North West Private Hospital,Health
+60401108009,dest_18,8,Pharmacy One,Pharmacy
+60401108009,dest_19,7,Advantage Pharmacy,Pharmacy
+60401108009,dest_20,6,Chemist Discount Centre,Pharmacy
+60401108009,dest_21,4,Burnie Chemmart Pharmacy,Pharmacy
+60401108009,dest_22,8,TerryWhite Chemmart,Pharmacy
+60401108009,dest_23,7,Coles,Supermarket
+60401108009,dest_24,8,Syd's IGA Everyday,Supermarket
+60401108009,dest_25,6,Asian Flavours,Supermarket
+60401108009,dest_26,5,Woolworths,Supermarket
+60401108010,dest_01,17,Marist Regional College,School
+60401108010,dest_02,15,Stella Maris Primary School,School
+60401108010,dest_03,12,Montello Primary School,School
+60401108010,dest_04,11,Leighland Christian School,School
+60401108010,dest_05,16,Burnie High School,School
+60401108010,dest_06,15,Cooee Primary School,School
+60401108010,dest_07,15,Burnie Primary School,School
+60401108010,dest_08,9,Parklands High School,School
+60401108010,dest_09,8,Romaine Park Primary School,School
+60401108010,dest_10,9,Havenview Primary School,School
+60401108010,dest_11,10,Family Planning Clinic Burnie,Health
+60401108010,dest_12,13,Burnie Community Health Centre,Health
+60401108010,dest_13,12,Burnie Dental Centre,Health
+60401108010,dest_14,14,North West Regional Hospital,Health
+60401108010,dest_15,10,Acton Dental Clinic,Health
+60401108010,dest_16,10,Acton Child and Family Centre,Health
+60401108010,dest_17,16,North West Private Hospital,Health
+60401108010,dest_18,12,Pharmacy One,Pharmacy
+60401108010,dest_19,11,Advantage Pharmacy,Pharmacy
+60401108010,dest_20,11,Chemist Discount Centre,Pharmacy
+60401108010,dest_21,8,Burnie Chemmart Pharmacy,Pharmacy
+60401108010,dest_22,14,TerryWhite Chemmart,Pharmacy
+60401108010,dest_23,12,Coles,Supermarket
+60401108010,dest_24,12,Syd's IGA Everyday,Supermarket
+60401108010,dest_25,10,Asian Flavours,Supermarket
+60401108010,dest_26,8,Woolworths,Supermarket
+60401108011,dest_01,12,Marist Regional College,School
+60401108011,dest_02,10,Stella Maris Primary School,School
+60401108011,dest_03,7,Montello Primary School,School
+60401108011,dest_04,7,Leighland Christian School,School
+60401108011,dest_05,11,Burnie High School,School
+60401108011,dest_06,10,Cooee Primary School,School
+60401108011,dest_07,10,Burnie Primary School,School
+60401108011,dest_08,4,Parklands High School,School
+60401108011,dest_09,2,Romaine Park Primary School,School
+60401108011,dest_10,9,Havenview Primary School,School
+60401108011,dest_11,5,Family Planning Clinic Burnie,Health
+60401108011,dest_12,8,Burnie Community Health Centre,Health
+60401108011,dest_13,7,Burnie Dental Centre,Health
+60401108011,dest_14,9,North West Regional Hospital,Health
+60401108011,dest_15,5,Acton Dental Clinic,Health
+60401108011,dest_16,5,Acton Child and Family Centre,Health
+60401108011,dest_17,11,North West Private Hospital,Health
+60401108011,dest_18,7,Pharmacy One,Pharmacy
+60401108011,dest_19,6,Advantage Pharmacy,Pharmacy
+60401108011,dest_20,6,Chemist Discount Centre,Pharmacy
+60401108011,dest_21,3,Burnie Chemmart Pharmacy,Pharmacy
+60401108011,dest_22,9,TerryWhite Chemmart,Pharmacy
+60401108011,dest_23,7,Coles,Supermarket
+60401108011,dest_24,7,Syd's IGA Everyday,Supermarket
+60401108011,dest_25,5,Asian Flavours,Supermarket
+60401108011,dest_26,3,Woolworths,Supermarket
