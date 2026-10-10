@@ -17,3 +17,9 @@ Thumbs.db
 # Local raw project data
 data/raw/
 *.pbf
+# Large data and map outputs
+Outputs/
+data/processed/
+*.gpkg
+*.html
+*.geojson
