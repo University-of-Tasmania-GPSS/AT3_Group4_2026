@@ -1,26 +1,11 @@
 # Discussion
 
-I am a book about ... something! Wikipedia has [information about books](wiki:book): hover over the link for more information.
+## Discussion
 
-% An admonition containing a note
-:::{note}
-Books are usually written on paper ... But Jupyter Book can create _websites_!
-:::
+- **Visual Hierarchy & Contrast:** The dark charcoal basemap (`#1B1C24`) combined with muted road vectors (`#AEB6B8`) ensures that the CDI choropleth polygons remain the primary visual focus, providing high contrast for quick spatial pattern recognition.
 
-If you sold 100 books at \$10 per book, you'd have \$1000 dollars according to [](#eq:book). If instead you publish your Jupyter Book to the web for free, you'd have \$0 dollars!
+- **Information Layering & Density:** Separating quick-reference hover tooltips (CDI category and accessibility metrics) from comprehensive click popups (IRSD scores, population, and modal gravity outputs) prevents visual clutter while retaining full data transparency.
 
-% An arbitrary math equation
-:::{math}
-:name: eq:book
+- **Cartographic Trade-offs:** Filtering and clipping OpenStreetMap road network vectors directly to the unified Burnie SA1 boundary reduces feature counts from 5,112 to 4,059, optimizing web rendering performance without sacrificing structural roadway context.
 
-x \times y = z
-:::
-
-Sometimes when reading it is helpful to foster a _tranquil_ environment. The image in [](#fig:mountains) would be a perfect spot!
-
-% A figure of a photograph of some mountains, followed by a caption
-:::{figure} https://github.com/rowanc1/pics/blob/main/mountains.png?raw=true
-:label: fig:mountains
-
-A photograph of some beautiful mountains to look at whilst reading.
-:::
+- **Model Limitations:** The static 30-minute gravity catchment model assumes uniform departure times and fixed transit schedules, which may underestimate spatial reliance during off-peak hours or weekend service reductions across peripheral SA1s.

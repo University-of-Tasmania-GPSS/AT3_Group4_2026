@@ -15,27 +15,20 @@ Implemented a 5-class color scale (#2166AC to #D73027) representing lower to hig
 Configured interactive hover tooltips and click popups displaying demographic and accessibility metrics.   
 Injected custom HTML/CSS for a floating map title and a compact CDI legend.   
 
-I am a book about ... something! Wikipedia has [information about books](wiki:book): hover over the link for more information.
+Mathematical Formulation
+The Car Dependency Index (CDI) is a model that evaluates how easily populations at origin $i$ can reach essential opportunities $j$ (such as employment, education, and healthcare) across different transport 
 
-% An admonition containing a note
-:::{note}
-Books are usually written on paper ... But Jupyter Book can create _websites_!
-:::
-
-If you sold 100 books at \$10 per book, you'd have \$1000 dollars according to [](#eq:book). If instead you publish your Jupyter Book to the web for free, you'd have \$0 dollars!
-
-% An arbitrary math equation
 :::{math}
-:name: eq:book
+:name: eq:cdi
 
-x \times y = z
+CDI_i = \frac{O_{i,\text{Car}} - O_{i,\text{PT}}}{O_{i,\text{Car}} + O_{i,\text{PT}}}
 :::
 
-Sometimes when reading it is helpful to foster a _tranquil_ environment. The image in [](#fig:mountains) would be a perfect spot!
+Where:
+- $A_i$ represents the cumulative accessibility score for origin zone $i$.
+- $O_j$ is the magnitude of opportunities available at destination $j$.
+- $t_{ij}$ is the network travel time between origin $i$ and destination $j$.
+- $\beta$ is the distance-decay parameter reflecting traveler sensitivity to travel time.
 
-% A figure of a photograph of some mountains, followed by a caption
-:::{figure} https://github.com/rowanc1/pics/blob/main/mountains.png?raw=true
-:label: fig:mountains
-
-A photograph of some beautiful mountains to look at whilst reading.
+By comparing accessibility via private motor vehicles ($A_i^{car}$) against public transit ($A_i^{pt}$), the index derives a comparative ratio, quantifying the systemic advantage and reliance on private automobiles across regional mesh blocks.
 :::

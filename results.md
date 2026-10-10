@@ -1,26 +1,16 @@
 # Results
 
-I am a book about ... something! Wikipedia has [information about books](wiki:book): hover over the link for more information.
+## Results
 
-% An admonition containing a note
-:::{note}
-Books are usually written on paper ... But Jupyter Book can create _websites_!
-:::
+- **Output Artifact:** Executing the notebook generates the publication-ready **Burnie CDI 30-Min Interactive Map Display**, rendering 56 SA1 polygon features and 4,059 clipped OpenStreetMap road segments over a custom dark base (`#1B1C24`).
 
-If you sold 100 books at \$10 per book, you'd have \$1000 dollars according to [](#eq:book). If instead you publish your Jupyter Book to the web for free, you'd have \$0 dollars!
+- **Spatial Categorization & Model Advantage:** 
+  - **Categories 1 & 2 (Public Transit Advantage / Parity):** Concentrated in central Burnie and inner suburbs, where high stop density yields competitive public transit travel times ($A_i^{\text{pt}} \approx A_i^{\text{car}}$).
 
-% An arbitrary math equation
-:::{math}
-:name: eq:book
+  - **Categories 3 & 4 (Moderate to High Dependency):** Covers middle-ring residential zones (e.g., Shorewell Park, Acton) where service frequencies drop and transfer delays expand the $A_i^{\text{car}} / A_i^{\text{pt}}$ gap.
 
-x \times y = z
-:::
+  - **Categories 5 & 6 (Severe & Extreme Disadvantage):** Dominates peri-urban and steep peripheral SA1s (e.g., Havenview, Ridgley fringe), where transit options fail to provide functional access within 30 minutes.
 
-Sometimes when reading it is helpful to foster a _tranquil_ environment. The image in [](#fig:mountains) would be a perfect spot!
+- **Equity & Disadvantage Overlap:** Cross-tabulating the 6 CDI categories with IRSD scores identifies specific high-priority SA1s where low socio-economic status intersects with high automotive reliance.
 
-% A figure of a photograph of some mountains, followed by a caption
-:::{figure} https://github.com/rowanc1/pics/blob/main/mountains.png?raw=true
-:label: fig:mountains
-
-A photograph of some beautiful mountains to look at whilst reading.
-:::
+- **Interactive Features:** Hover tooltips display immediate CDI classification, while click popups expose underlying block-level attributes (population, IRSD decile, raw $A_i^{\text{car}}$ and $A_i^{\text{pt}}$ scores, and equity flags).
