@@ -1,16 +1,57 @@
 # Introduction
 
-This spatial analysis project evaluates **Car Dependency and Essential-Service Accessibility in Burnie, Tasmania**. Regional coastal hubs often experience high private vehicle reliance due to dispersed residential layouts and complex topography.
+:::::{div}
+:class: burnie-hero
 
-:::{note}
-This study integrates **cadastral parcels** of Burnie sourced from the LIST, which were essential for defining study area boundaries through precise spatial clipping. To evaluate **commuting patterns**, ABS census data was extracted to examine prevailing transport modes, specifically distinguishing between private vehicle usage and public bus transit. Furthermore, **Points of Interest (POIs)** extracted from the LIST were mapped to identify essential amenities, including healthcare facilities, retail shops, and community hubs.
-
-Educational accessibility was explicitly modeled using **schools data** from the LIST to assess travel time proximity for families and children. To contextualize spatial equity, the **Socio-Economic Indexes for Areas (SEIFA)** were imported from the ABS, providing critical indicators of relative socio-economic advantage and disadvantage across regions. Finally, public transport infrastructure was incorporated by extracting **Metro bus stop locations**, enabling comparative travel-time calculations between private automobile trips and public transit services.
+:::{image} Images/South_Burnie.jpg
+:alt: View of South Burnie, Tasmania.
+:width: 100%
 :::
 
-:::{figure} https://raw.githubusercontent.com/University-of-Tasmania-GPSS/AT3_Group4_2026/AT3_KGG375/Mishu/Images/map2.png
-:label: fig:burnie-shapefile
+::::{div}
+:class: burnie-hero-text
+
+:::{div}
+:class: burnie-hero-title
+
+Car Dependency and Urban Accessibility
 :::
 
-Overview of the Burnie spatial study area and loaded shapefile layers within the workspace.
+:::{div}
+:class: burnie-hero-subtitle
+
+Exploring how Burnie residents reach essential services and opportunities.
 :::
+
+<div class="burnie-hero-icons">
+<span class="transport-icon icon-car" aria-label="Private car">Car</span>
+<span class="transport-icon icon-bus" aria-label="Public transport">Bus</span>
+<span class="transport-icon icon-walk" aria-label="Walking">Walk</span>
+<span class="transport-icon icon-bike" aria-label="Cycling">Cycle</span>
+</div>
+
+::::
+
+::::{div}
+:class: burnie-hero-objectives
+
+**Project objectives**
+
+Compare access to essential services by private car and public transport, map spatial variation in car dependency across Burnie, and identify communities facing accessibility disadvantage.
+
+::::
+
+:::::
+
+Image: View of South Burnie, Tasmania.
+Source: Wikipedia. 
+
+## Why accessibility matters
+
+This project examines **car dependency and access to essential services in Burnie, Tasmania**. Dispersed residential areas and complex terrain can influence how easily residents reach everyday destinations.
+
+By comparing accessibility by **private car and public bus**, we investigate where transport options provide similar access and where residents face a greater reliance on cars.
+
+## Research question
+
+How does access to essential services within **30 minutes** differ between private car and public bus across Burnie, and where does high car dependency coincide with socio-economic disadvantage?

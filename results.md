@@ -1,28 +1,34 @@
----
-site:
-  hide_outline: true
----
 # Results
 
-- **Output Artifact:** Executing the notebook generates the publication-ready **Burnie CDI 30-Min Interactive Map Display**, rendering 56 SA1 polygon features and 4,059 clipped OpenStreetMap road segments over a custom dark base (`#1B1C24`).
+:::{figure} Images/transport_map.png
+:label: fig-transport-map
+:alt: Transport map supporting the Burnie accessibility analysis.
+:width: 100%
+:align: center
 
-- **Spatial Categorization & Model Advantage:** 
-  - **Categories 1 & 2 (Public Transit Advantage / Parity):** Concentrated in central Burnie and inner suburbs, where high stop density yields competitive public transit travel times ($A_i^{\text{pt}} \approx A_i^{\text{car}}$).
+Transport context for comparing accessibility by private car and public bus in Burnie.
+:::
 
-  - **Categories 3 & 4 (Moderate to High Dependency):** Covers middle-ring residential zones (e.g., Shorewell Park, Acton) where service frequencies drop and transfer delays expand the $A_i^{\text{car}} / A_i^{\text{pt}}$ gap.
+## Interactive Car Dependency Map
 
-  - **Categories 5 & 6 (Severe & Extreme Disadvantage):** Dominates peri-urban and steep peripheral SA1s (e.g., Havenview, Ridgley fringe), where transit options fail to provide functional access within 30 minutes.
+The **Burnie CDI 30-Minute Interactive Map** compares accessibility by private car and public bus across Burnie.
 
-- **Equity & Disadvantage Overlap:** Cross-tabulating the 6 CDI categories with IRSD scores identifies specific high-priority SA1s where low socio-economic status intersects with high automotive reliance.
-
-- **Interactive Features:** Hover tooltips display immediate CDI classification, while click popups expose underlying block-level attributes (population, IRSD decile, raw $A_i^{\text{car}}$ and $A_i^{\text{pt}}$ scores, and equity flags).
-
-## Car Dependency Across Burnie
-
-The map below shows the spatial distribution of the 30-minute Car Dependency Index (CDI) across Burnie's 56 Statistical Areas Level 1 (SA1s).
+| Map component | Description |
+| --- | --- |
+| **Analysis units** | 56 SA1 polygons |
+| **Road context** | 4,059 clipped OpenStreetMap road segments |
+| **Travel-time threshold** | 30 minutes |
 
 :::{iframe} /burnie_cdi_30min_interactive.html
 :width: 100%
 :::
+*Figure 1: Interactive map of 30-minute car dependency across Burnie’s 56 SA1s. Higher CDI values indicate a greater accessibility advantage by private car compared with public bus.*
 
-*Figure 1. Spatial distribution of the 30-minute Car Dependency Index across Burnie SA1s. Higher positive values indicate a greater accessibility advantage by private car.*
+## Interpreting Car Dependency Scatter Plot
+
+Explore the relationship between car dependency and socio-economic disadvantage across Burnie’s SA1s.
+
+:::{iframe} /burnie_cdi_seifa_scatter_interactive.html
+:width: 100%
+:::
+*Figure 2: Car dependency and socio-economic disadvantage across 54 Burnie SA1s with available IRSD data. Lower IRSD scores indicate greater disadvantage, while higher CDI values indicate greater car advantage. The dashed line shows the fitted linear trend.*

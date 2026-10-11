@@ -14,6 +14,7 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
 # Local raw project data
 data/raw/
 *.pbf
@@ -26,3 +27,21 @@ Outputs/
 *.geojson
 *.shp
 *.tif
+
+# Data folders and archives
+/Ambulance Stations TAS/
+/Burnie Shapefile/
+/Burnie_GTFS_Filtered/
+/cache/
+/Cadastral Parcels/
+/Land Use from LIST/
+/Method of Travel to work/
+/METRO Data/
+/Open Street Map TAS from Geofabrik/
+/POI from LIST/
+/Schools TAS. Src LIST/
+/Socio Economic Index from ABS/
+/Transport/
+tas_gtfs.zip
+# MyST build outputs
+_build
