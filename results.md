@@ -19,7 +19,7 @@ The **Burnie CDI 30-Minute Interactive Map** compares accessibility by private c
 | **Road context** | 4,059 clipped OpenStreetMap road segments |
 | **Travel-time threshold** | 30 minutes |
 
-:::{iframe} /burnie_cdi_30min_interactive.html
+:::{iframe} burnie_cdi_30min_interactive.html
 :width: 100%
 :::
 *Figure 1: Interactive map of 30-minute car dependency across Burnie’s 56 SA1s. Higher CDI values indicate a greater accessibility advantage by private car compared with public bus.*
@@ -28,7 +28,7 @@ The **Burnie CDI 30-Minute Interactive Map** compares accessibility by private c
 
 Explore the relationship between car dependency and socio-economic disadvantage across Burnie’s SA1s.
 
-:::{iframe} /burnie_cdi_seifa_scatter_interactive.html
+:::{iframe} burnie_cdi_seifa_scatter_interactive.html
 :width: 100%
 :::
 *Figure 2: Car dependency and socio-economic disadvantage across 54 Burnie SA1s with available IRSD data. Lower IRSD scores indicate greater disadvantage, while higher CDI values indicate greater car advantage. The dashed line shows the fitted linear trend.*
