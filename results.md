@@ -13,7 +13,4 @@
 
 - **Interactive Features:** Hover tooltips display immediate CDI classification, while click popups expose underlying block-level attributes (population, IRSD decile, raw $A_i^{\text{car}}$ and $A_i^{\text{pt}}$ scores, and equity flags).
 
-```{iframe} Outputs/Maps/burnie_cdi_30min_interactive.html
-:width: 100%
-:height: 550px
-:::
+<iframe src="./burnie_cdi_30min_interactive.html" width="100%" height="700px" style="border:none;"></iframe>
