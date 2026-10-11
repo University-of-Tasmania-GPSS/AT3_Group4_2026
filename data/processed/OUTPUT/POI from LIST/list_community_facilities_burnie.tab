@@ -1,0 +1,16 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 9
+    COMFAC_ID Decimal (10, 0) ;
+    PID Decimal (10, 0) ;
+    COM_TYPE1 Char (60) ;
+    COM_TYPE2 Char (60) ;
+    NAME Char (100) ;
+    UFI Char (38) ;
+    CREATED_ON Char (19) ;
+    LIST_GUID Char (38) ;
+    NOM_REG_NO Char (7) ;

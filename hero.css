@@ -1,0 +1,425 @@
+.burnie-hero {
+  position: relative;
+  min-height: 580px;
+  overflow: hidden;
+  border-radius: 12px;
+  color: #20251f;
+}
+
+.burnie-hero img {
+  display: block;
+  width: 100%;
+  height: 580px;
+  object-fit: cover;
+}
+
+.burnie-hero-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 32px;
+  background: linear-gradient(
+    rgba(255, 247, 230, 0.95),
+    rgba(255, 247, 230, 0)
+  );
+}
+
+.burnie-hero-title {
+  font-family: Georgia, serif;
+  font-size: clamp(28px, 4vw, 44px);
+  font-weight: bold;
+  line-height: 1.15;
+  max-width: 550px;
+  margin-bottom: 12px;
+}
+
+.burnie-hero-subtitle {
+  font-size: 19px;
+  max-width: 480px;
+}
+
+.burnie-hero-icons {
+  font-size: 40px;
+  margin-top: 18px;
+}
+
+.burnie-hero-objectives {
+  position: absolute;
+  bottom: 24px;
+  left: 24px;
+  right: 24px;
+  padding: 20px;
+  border-radius: 10px;
+  background: rgba(255, 247, 230, 0.92);
+}
+
+@media (max-width: 600px) {
+  .burnie-hero-text {
+    padding: 20px;
+  }
+
+  .burnie-hero-objectives {
+    left: 12px;
+    right: 12px;
+    bottom: 12px;
+    padding: 16px;
+  }
+}
+
+.burnie-hero {
+  height: 580px;
+  min-height: 580px;
+}
+
+.burnie-hero p {
+  margin: 0;
+}
+
+.burnie-hero-text {
+  padding: 28px;
+  background: linear-gradient(
+    rgba(255, 247, 230, 0.8),
+    rgba(255, 247, 230, 0) 95%
+  );
+}
+
+.burnie-hero-title {
+  font-family: Georgia, serif;
+  font-size: 38px;
+  line-height: 1.1;
+  max-width: 520px;
+  margin: 0 0 12px;
+}
+
+.burnie-hero-subtitle {
+  font-family: Georgia, serif;
+  font-size: 18px;
+  line-height: 1.4;
+  max-width: 420px;
+}
+
+.burnie-hero-icons {
+  margin-top: 20px;
+  font-size: 36px;
+  line-height: 1;
+}
+
+.burnie-hero-objectives {
+  bottom: 24px;
+  left: 24px;
+  right: 24px;
+  padding: 16px 18px;
+  background: rgba(255, 247, 230, 0.85);
+  font-size: 15px;
+  line-height: 1.45;
+}
+
+.burnie-hero-objectives p:first-child {
+  font-family: Georgia, serif;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+
+.burnie-hero-icons {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.transport-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  font-size: 0;
+}
+
+.transport-icon::before {
+  content: "";
+  display: block;
+  width: 36px;
+  height: 36px;
+  background: center / contain no-repeat;
+}
+
+.icon-car {
+  background-color: #cf641e;
+}
+
+.icon-bus {
+  background-color: #145b60;
+}
+
+.icon-walk {
+  background-color: #47763d;
+}
+
+.icon-bike {
+  background-color: #df940e;
+}
+
+.icon-car::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath fill='white' d='M7 4h18l4 11v13h-4v-4H7v4H3V15zm2 3-3 8h20l-3-8zM6 18v3h5v-3zm15 0v3h5v-3z'/%3E%3C/svg%3E");
+}
+
+.icon-bus::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='5' y='3' width='22' height='24' rx='4' fill='white'/%3E%3Crect x='8' y='8' width='16' height='11' rx='1' fill='%23145b60'/%3E%3Cpath d='M11 5h10' stroke='%23145b60' stroke-width='2'/%3E%3Ccircle cx='10' cy='23' r='2' fill='%23145b60'/%3E%3Ccircle cx='22' cy='23' r='2' fill='%23145b60'/%3E%3Cpath d='M9 26v4m14-4v4' stroke='white' stroke-width='4'/%3E%3C/svg%3E");
+}
+
+.icon-walk::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='18' cy='4' r='3' fill='white'/%3E%3Cpath d='m17 10-3 9 6 4 3 7M14 19l-5 11M17 10l5 7 5 1M17 10l-6 3-3 5' fill='none' stroke='white' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+}
+
+.icon-bike::before {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 32'%3E%3Cg fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='8' cy='23' r='6'/%3E%3Ccircle cx='28' cy='23' r='6'/%3E%3Cpath d='m8 23 7-12 7 12H8m7-12h9l4 12M12 8h6m-3 3-2-3m11 3-2-7h5'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* Show only car and bus */
+.burnie-hero .icon-walk,
+.burnie-hero .icon-bike {
+  display: none;
+}
+
+/* Make the photograph fill the entire panel */
+.burnie-hero img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: cover;
+}
+
+/* Keep the text above the photograph */
+.burnie-hero-text,
+.burnie-hero-objectives {
+  z-index: 1;
+}
+
+/* Aligned methodology boxes and arrows */
+.aligned-workflow {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
+  column-gap: 36px !important;
+  row-gap: 44px !important;
+  align-items: stretch !important;
+}
+
+.aligned-workflow .workflow-step {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border: 2px solid #9275e8;
+  border-radius: 8px;
+  background: #eeebff;
+  color: #222;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.4;
+  overflow: visible;
+}
+
+.aligned-workflow .workflow-step p {
+  margin: 0;
+}
+
+.aligned-workflow .workflow-step:not(.workflow-last)::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 2px;
+  height: 32px;
+  background: #555;
+  transform: translateX(-50%);
+}
+
+.aligned-workflow .workflow-step:not(.workflow-last)::before {
+  content: "";
+  position: absolute;
+  top: calc(100% + 30px);
+  left: 50%;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 10px solid #555;
+  transform: translateX(-50%);
+}
+
+/* Space below the completed workflow */
+.aligned-workflow {
+  margin-bottom: 48px !important;
+}
+
+/* Bring the following introductory text and table together */
+.aligned-workflow + p {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.aligned-workflow + p + * {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.aligned-workflow + p + * table {
+  margin-top: 0 !important;
+}
+
+/* Space above table-section headings */
+h2:has(+ table),
+h2:has(+ div table) {
+  margin-top: 48px !important;
+  margin-bottom: 8px !important;
+}
+
+/* Keep the table close to its heading */
+h2 + table,
+h2 + div:has(table),
+h2 + div table {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+p:has(+ table),
+p:has(+ div table) {
+  margin-bottom: 8px !important;
+}
+
+p + table,
+p + div:has(table),
+p + div table {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Consistent colours for book tables */
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #D5E1E5;
+  color: #243746;
+}
+
+article table thead th {
+  background: #234E5C !important;
+  color: #FFFFFF !important;
+  font-weight: 700;
+  padding: 12px 14px;
+  border-bottom: 3px solid #4F8996;
+}
+
+article table tbody td {
+  padding: 12px 14px;
+  border-bottom: 1px solid #D5E1E5;
+  vertical-align: top;
+}
+
+article table tbody tr:nth-child(odd) td {
+  background: #FFFFFF !important;
+}
+
+article table tbody tr:nth-child(even) td {
+  background: #EFF5F7 !important;
+}
+
+article table tbody tr:hover td {
+  background: #E0EEF2 !important;
+}
+
+/* Discussion takeaway cards */
+.takeaway-car,
+.takeaway-bus,
+.takeaway-equity {
+  border-radius: 10px !important;
+  border: 1px solid !important;
+  border-top: 5px solid !important;
+  padding: 20px !important;
+  box-shadow: 0 3px 10px rgba(25, 40, 55, 0.08);
+}
+
+/* Amber: interpreting car dependency */
+.takeaway-car {
+  background: #FFF4DF !important;
+  border-color: #B7791F !important;
+  color: #593B14 !important;
+}
+
+/* Teal: bus accessibility */
+.takeaway-bus {
+  background: #E5F3F2 !important;
+  border-color: #267D78 !important;
+  color: #174B48 !important;
+}
+
+/* Purple: socio-economic equity */
+.takeaway-equity {
+  background: #F0EAF7 !important;
+  border-color: #76549B !important;
+  color: #483260 !important;
+}
+
+.takeaway-car *,
+.takeaway-bus *,
+.takeaway-equity * {
+  color: inherit !important;
+  background-color: transparent !important;
+}
+
+/* Smaller, closer Connecting Ireland source credit */
+p:has(a[href*="connecting-ireland-phase-2-review"]) {
+  font-size: 12px !important;
+  line-height: 1.4 !important;
+  margin-top: 6px !important;
+  margin-bottom: 16px !important;
+}
+
+/* Reduce the gap beneath the image grid */
+div:has(+ p a[href*="connecting-ireland-phase-2-review"]) {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+iframe[src*="burnie_cdi_seifa_scatter_interactive"] {
+  width: 100% !important;
+  height: 850px !important;
+  border: none;
+  display: block;
+}
+
+h2#interpreting-car-dependency-scatter-plot {
+  margin-top: 64px !important;
+}
+
+div:has(> iframe[src*="burnie_cdi_seifa_scatter_interactive"]) {
+  aspect-ratio: auto !important;
+  height: auto !important;
+  overflow: visible !important;
+}
+
+iframe[src*="burnie_cdi_seifa_scatter_interactive"] {
+  position: relative !important;
+  height: 850px !important;
+  display: block !important;
+}
+
+div:has(> iframe[src*="burnie_cdi_seifa_scatter_interactive"]) {
+  aspect-ratio: auto !important;
+  height: auto !important;
+  min-height: 0 !important;
+  padding: 0 !important;
+  margin-bottom: 8px !important;
+}
+
+iframe[src*="burnie_cdi_seifa_scatter_interactive"] {
+  position: static !important;
+  width: 100% !important;
+  height: 670px !important;
+  margin: 0 !important;
+  display: block !important;
+}
