@@ -3,7 +3,7 @@ name: Publish Burnie Jupyter Book
 on:
   push:
     branches:
-      - Mishu
+      - main
 
 permissions:
   contents: read
