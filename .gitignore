@@ -17,3 +17,13 @@ Thumbs.db
 # Local raw project data
 data/raw/
 *.pbf
+# Data and large outputs
+data/
+Outputs/
+
+# Spatial and web map files
+*.gpkg
+*.geojson
+*.shp
+*.tif
+*.html

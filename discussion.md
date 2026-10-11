@@ -1,0 +1,9 @@
+# Discussion
+
+- **Visual Hierarchy & Contrast:** The dark charcoal basemap (`#1B1C24`) combined with muted road vectors (`#AEB6B8`) ensures that the CDI choropleth polygons remain the primary visual focus, providing high contrast for quick spatial pattern recognition.
+
+- **Information Layering & Density:** Separating quick-reference hover tooltips (CDI category and accessibility metrics) from comprehensive click popups (IRSD scores, population, and modal gravity outputs) prevents visual clutter while retaining full data transparency.
+
+- **Cartographic Trade-offs:** Filtering and clipping OpenStreetMap road network vectors directly to the unified Burnie SA1 boundary reduces feature counts from 5,112 to 4,059, optimizing web rendering performance without sacrificing structural roadway context.
+
+- **Model Limitations:** The static 30-minute gravity catchment model assumes uniform departure times and fixed transit schedules, which may underestimate spatial reliance during off-peak hours or weekend service reductions across peripheral SA1s.
