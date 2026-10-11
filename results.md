@@ -13,7 +13,7 @@
 
 - **Interactive Features:** Hover tooltips display immediate CDI classification, while click popups expose underlying block-level attributes (population, IRSD decile, raw $A_i^{\text{car}}$ and $A_i^{\text{pt}}$ scores, and equity flags).
 
-:::{{iframe}} https://raw.githubusercontent.com/University-of-Tasmania-GPSS/AT3_Group4_2026/Outputs/Maps/burnie_cdi_30min_interactive.html
+:::{{iframe}} https://raw.githubusercontent.com/University-of-Tasmania-GPSS/AT3_Group4_2026/Mishu/Outputs/Maps/burnie_cdi_30min_interactive.html
 :width: 100%
 :height: 550px
 :::
