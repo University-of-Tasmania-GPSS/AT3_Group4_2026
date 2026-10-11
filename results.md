@@ -1,3 +1,7 @@
+---
+site:
+  hide_outline: true
+---
 # Results
 
 - **Output Artifact:** Executing the notebook generates the publication-ready **Burnie CDI 30-Min Interactive Map Display**, rendering 56 SA1 polygon features and 4,059 clipped OpenStreetMap road segments over a custom dark base (`#1B1C24`).
@@ -13,5 +17,12 @@
 
 - **Interactive Features:** Hover tooltips display immediate CDI classification, while click popups expose underlying block-level attributes (population, IRSD decile, raw $A_i^{\text{car}}$ and $A_i^{\text{pt}}$ scores, and equity flags).
 
-```{raw} html
-<iframe src="../maps/burnie_cdi_30min_interactive.html" width="100%" height="650px" style="border: none; border-radius: 8px;"></iframe>
+## Car Dependency Across Burnie
+
+The map below shows the spatial distribution of the 30-minute Car Dependency Index (CDI) across Burnie's 56 Statistical Areas Level 1 (SA1s).
+
+:::{iframe} /burnie_cdi_30min_interactive.html
+:width: 100%
+:::
+
+*Figure 1. Spatial distribution of the 30-minute Car Dependency Index across Burnie SA1s. Higher positive values indicate a greater accessibility advantage by private car.*
