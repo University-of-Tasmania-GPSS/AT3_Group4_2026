@@ -12,3 +12,6 @@ site:
   template: book-theme
 
  # title: Car Dependency and Essential-Service Accessibility in Burnie
+
+resources:
+  - burnie_cdi_30min_interactive
