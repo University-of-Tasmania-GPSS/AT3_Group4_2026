@@ -70,7 +70,7 @@ The analysis was conducted using Python and geospatial datasets, with results pr
 - `Images/` – Supporting figures
 - `Maps/` and `Outputs/Maps/` – Generated maps and interactive outputs
 - `myst.yml` – Jupyter Book configuration
-- `index.md`, `methods.md`, `results.md`, `discussion.md`, `conclusion.md` – Website content
+- `index.md`, `methods.md`, `results.md`, `readme.md`, `discussion.md`, `conclusion.md` – Website content
 
 ## Reproducibility
 
@@ -82,8 +82,34 @@ The published Jupyter Book provides a convenient way to explore the project with
 
 **University of Tasmania – KGG375 Geospatial Data Analytics, Group 4**
 
-Team member names, individual contributions and acknowledgements can be added here.
+Gloria Gachara
+
+Downloaded necessary data: SA1 Boundaries, METRO data, and ABS SEIFA data.
+
+Developed and refined the spatial visualisations, including the Burnie study-area map and car-versus-public-transport accessibility maps.
+
+Developed the interactive Car Dependency Index (CDI) map and the CDI–SEIFA socioeconomic scatter plot.
+
+Contributed to interpreting spatial accessibility patterns and socioeconomic disadvantage.
+
+Supported the integration and presentation of interactive visualisations within the Jupyter Book website.
+
+Mishu Panta
+
+Downloaded necessary data: Cadastral Parcels, Open Street Map road network, ABS Census, POIs from LIST, and Basemap from ESRI.
+
+Developed and organised the Jupyter Book website structure, including its main sections and navigation.
+
+Prepared and refined the project's written documentation, including the introduction, study area, methods, results, discussion and conclusion.
+
+Contributed to the presentation of the analytical methodology, datasets and research findings.
+
+Supported GitHub repository management, website integration and publication.
+
+Joint Contributions
+
+Both team members contributed to project planning, geospatial analysis, reviewing results, troubleshooting, and refining the final Jupyter Book website. 
 
 ## Academic Context
 
-This repository was developed for a university geospatial data analytics assessment. The findings reflect the selected datasets, accessibility modelling assumptions and study-area definitions.
+This repository was developed for AT3 Project for KGG375. The findings reflect the selected datasets, accessibility modelling assumptions and study-area definitions.
