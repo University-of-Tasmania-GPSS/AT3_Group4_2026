@@ -104,9 +104,47 @@ Most mapped destinations cluster in northern Burnie. Roads extend throughout muc
 
 ## 3. Threshold Accessibility
 
-For each SA1 and transport mode, assess which destinations can be reached within **30 minutes**. These thresholds produce comparable car and public transport accessibility scores across the four service categories.
+Accessibility was calculated for Burnie's 56 Statistical Areas Level 1 (SA1s) using origin–destination travel times for private cars and public buses. Three travel-time threshold were evaluated with **30 minutes** selected as the primary scenario.
 
-The plan does not specify the precise category-weighting or score-aggregation rule, so no additional accessibility formula is introduced here.
+For each SA1, the proportion of destinations reachable within the specified travel-time threshold was calculated separately for each service category.
+
+**Equation 1. Service-category accessibility**
+
+```{math}
+:label: eq-category-accessibility
+
+A_{i,c,m}(T) =
+\frac{N_{i,c,m}(T)}{N_c}
+```
+
+Where:
+
+- $A_{i,c,m}(T)$ = accessibility proportion for SA1 $i$, service category $c$, transport mode $m$, and threshold $T$.
+- $N_{i,c,m}(T)$ = number of destinations in category $c$ reachable within $T$ minutes.
+- $N_c$ = total number of destinations in category $c$ in the study dataset.
+
+The analysis included six categories: **schools, healthcare facilities, pharmacies, supermarkets, greenspaces and leisure facilities**.
+
+The six category-specific accessibility proportions were combined using equal weighting to produce an overall accessibility score for each SA1 and transport mode.
+
+**Equation 2. Overall accessibility score**
+
+```{math}
+:label: eq-overall-accessibility
+
+A_{i,m}(T) =
+\frac{1}{6}\sum_{c=1}^{6} A_{i,c,m}(T)
+```
+
+Each service category contributed equally to the overall score, regardless of the number of destinations within that category.
+
+The resulting accessibility score ranges from **0 to 1**, where 0 indicates that no destinations are reachable within the selected threshold and 1 indicates that all destinations in the six categories are reachable.
+
+Missing travel times were treated as unreachable destinations.
+
+The analysis initially considered four essential-service categories: schools, healthcare facilities, pharmacies and supermarkets. It was subsequently expanded to include greenspaces and leisure facilities.
+
+The **six-category, 30-minute accessibility scores** were used for the final Car Dependency Index analysis.
 
 ## 4. Car Dependency Index
 
@@ -145,7 +183,7 @@ Population weighting is proposed where appropriate for aggregated comparisons. I
 | Check | Purpose |
 | --- | --- |
 | **ABS Method of Travel to Work** | Compare modelled accessibility patterns with observed census commuting patterns as supporting context |
-| **15-, 30- and 45-minute thresholds** | Test whether conclusions change with the travel-time limit |
+| **30-minute thresholds** | Test whether conclusions change with the travel-time limit |
 | **Alternative public transport departure times** | Consider timetable sensitivity if useful |
 | **Selected service categories** | Consider category sensitivity if necessary |
 
