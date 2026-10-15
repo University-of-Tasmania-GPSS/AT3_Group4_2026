@@ -172,11 +172,13 @@ If accessibility is zero for both modes, CDI is **undefined**. Such areas are cl
 
 ## 5. Socio-Economic Equity
 
-The planned SA1-level output brings together **SA1 code, population, IRSD score, IRSD decile, car accessibility, public transport accessibility and CDI**.
+The relationship between car dependency and socio-economic disadvantage was examined using the Australian Bureau of Statistics (ABS) *Socio-Economic Indexes for Areas* (SEIFA), specifically the **Index of Relative Socio-economic Disadvantage (IRSD)**.
 
-Areas with **high CDI and low IRSD** are examined for overlapping car dependency and socio-economic disadvantage. Lower IRSD indicates relatively greater disadvantage, while higher IRSD indicates relatively less disadvantage.
+The final **six-category, 30-minute Car Dependency Index (CDI)** results were joined with the 2021 SEIFA dataset using SA1 codes. The combined dataset included SA1 code, population, IRSD score, IRSD decile, private-car accessibility, public transport accessibility and CDI.
 
-Population weighting is proposed where appropriate for aggregated comparisons. It is not treated as a confirmed calculation in this plan.
+Of the 56 SA1s in the study area, **54 had valid CDI and IRSD values** and were included in the socio-economic analysis. Lower IRSD scores indicate relatively greater socio-economic disadvantage, while higher scores indicate relatively less disadvantage (ABS, 2023).
+
+**Spearman's rank correlation** was calculated to assess the direction and strength of the association between CDI and IRSD across the 54 SA1s.
 
 ## 6. Context and Sensitivity Checks
 

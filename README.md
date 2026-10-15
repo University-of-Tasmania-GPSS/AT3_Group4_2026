@@ -80,9 +80,10 @@ Accessibility was assessed by determining the availability of essential-service 
 
 The analysis compared private-car and public bus accessibility across six service categories. It was calculated as:
 
-```{math}
-:label: eq-category-accessibility
+(eq-category-accessibility)=
+$$
 A_{i,c,m}(T) = \frac{N_{i,c,m}(T)}{N_c}
+$$
 
 Where:
 
