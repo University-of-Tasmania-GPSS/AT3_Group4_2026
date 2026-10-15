@@ -423,3 +423,15 @@ iframe[src*="burnie_cdi_seifa_scatter_interactive"] {
   margin: 0 !important;
   display: block !important;
 }
+
+.takeaway-card {
+    padding: 12px 15px !important;
+    font-size: 0.9em;
+    border-radius: 6px;
+    margin-bottom: 0px !important;
+}
+
+.takeaway-card h3 {
+    font-size: 1em !important;
+    margin-bottom: 6px !important;
+}
