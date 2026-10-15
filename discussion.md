@@ -96,21 +96,23 @@ Parts of northern urban Burnie show smaller differences between car and public b
 ## 3. Key Findings
 
 <div class="takeaway-grid">
-<div class="takeaway-card takeaway-car">
-<h3>1. High CDI ≠ Good Accessibility</h3>
-<p>SA1s with CDI values of 1.000 have different car accessibility scores, including 1.00, 0.77 and 0.01.</p>
-<p><strong>CDI must be interpreted alongside absolute accessibility.</strong></p>
-</div>
-<div class="takeaway-card takeaway-bus">
-<h3>2. Public Transport Can Narrow the Accessibility Gap</h3>
-<p>Parts of northern urban Burnie show smaller differences between car and public bus accessibility.</p>
-<p><strong>Public transport connectivity is important when evaluating accessibility differences.</strong></p>
-</div>
-<div class="takeaway-card takeaway-equity">
-<h3>3. Socio-Economic Context Matters</h3>
-<p>The CDI–IRSD relationship is positive but varies across SA1s.</p>
-<p><strong>Car dependency alone cannot establish socio-economic disadvantage.</strong></p>
-</div>
+    <div class="takeaway-card takeaway-car">
+        <h3>1. High CDI ≠ Good Accessibility</h3>
+        <p>SA1s with CDI values of 1.000 have different car accessibility scores, including 1.00, 0.77 and 0.01.</p>
+        <p><strong>CDI must be interpreted alongside absolute accessibility.</strong></p>
+    </div>
+    
+    <div class="takeaway-card takeaway-bus">
+        <h3>2. Public Transport Can Narrow the Accessibility Gap</h3>
+        <p>Parts of northern urban Burnie show smaller differences between car and public bus accessibility.</p>
+        <p><strong>Public transport connectivity is important when evaluating accessibility differences.</strong></p>
+    </div>
+
+    <div class="takeaway-card takeaway-equity">
+        <h3>3. Socio-Economic Context Matters</h3>
+        <p>The CDI–IRSD relationship is positive but varies across SA1s.</p>
+        <p><strong>Car dependency alone cannot establish socio-economic disadvantage.</strong></p>
+    </div>
 </div>
 
 ## 4. What This Means for Burnie
