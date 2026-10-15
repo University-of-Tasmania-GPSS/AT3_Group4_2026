@@ -119,7 +119,7 @@ The analysis also considers modelling assumptions and limitations, including the
 
 ### Accessibility by Private Car and Public Bus
 
-The 30-minute accessibility comparison shows a widespread advantage for private cars across Burnie.
+The 30-minute accessibility comparison shows a widespread advantage for private cars across Burnie in six categories "schools, healthcare facilities, pharmacies, supermarkets, greenspaces and leisure facilities". 
 
 Public bus accessibility is generally more limited, although parts of northern urban Burnie show smaller differences between transport modes.
 
