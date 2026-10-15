@@ -25,7 +25,7 @@ The analysis covers **56 Australian Bureau of Statistics Statistical Areas Level
 
 Using Python-based geospatial analysis, road networks, public transport timetables and socioeconomic data, the project examines spatial patterns of accessibility and identifies areas where reliance on private vehicles is greatest.
 
-The study draws on accessibility concepts established by Hansen (1959), Geurs and van Wee (2004), and Levinson and Wu (2020), alongside more recent research on inclusive urban accessibility and car dependency (Bruno et al., 2024; Campanelli et al., 2026).
+The study draws on accessibility concepts established by Geurs and van Wee (2004), and Levinson and Wu (2020), alongside more recent research on inclusive urban accessibility and car dependency (Bruno et al., 2024; Campanelli et al., 2026).
 
 ## 2. Research Question
 
