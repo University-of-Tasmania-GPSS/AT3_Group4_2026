@@ -2,7 +2,7 @@
 
 **30-minute accessibility | 56 SA1s | Six service categories | Private car vs public bus**
 
-The analysis demonstrates substantial differences in accessibility to essential services between private cars and public buses across Burnie, Tasmania. Private cars generally provide greater accessibility, although the magnitude of this advantage varies spatially.
+The analysis demonstrates large quantifiable differences in accessibility to essential services between private cars and public buses across Burnie, Tasmania. Private cars generally provide greater accessibility, although the magnitude of this advantage varies spatially.
 
 These findings reflect the importance of transport networks and service distribution in shaping access to everyday opportunities (Geurs & van Wee, 2004; Levinson & Wu, 2020).
 
@@ -10,7 +10,7 @@ These findings reflect the importance of transport networks and service distribu
 
 The 30-minute accessibility maps reveal a widespread advantage for private cars across Burnie's 56 Statistical Areas Level 1 (SA1s). Higher Car Dependency Index (CDI) values are common throughout the study area, while parts of northern urban Burnie demonstrate smaller differences between car and public bus accessibility.
 
-The concentration of essential services in northern Burnie provides important spatial context for these patterns. However, the accessibility differences cannot be explained by service location alone, as transport-network connectivity and public transport availability also influence access to destinations (Wu et al., 2021).
+The patterns displayed in CDI and accesibility analysis are explained by the concentration of essential services in northern Burnie. However, the accessibility differences cannot be explained by service location alone, as transport-network connectivity and public transport availability also influence access to destinations (Wu et al., 2021).
 
 ### High Car Dependency Does Not Always Mean Good Accessibility
 
