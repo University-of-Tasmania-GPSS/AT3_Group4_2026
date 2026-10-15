@@ -78,7 +78,20 @@ Metro Tasmania GTFS data, including bus routes, stops and timetables, were used 
 
 Accessibility was assessed by determining the availability of essential-service opportunities within a **30-minute travel-time threshold**.
 
-The analysis compared private-car and public bus accessibility across six service categories.
+The analysis compared private-car and public bus accessibility across six service categories. It was calculated as:
+
+```{math}
+:label: eq-category-accessibility
+
+A_{i,c,m}(T) =
+\frac{N_{i,c,m}(T)}{N_c}
+```
+
+Where:
+
+- $A_{i,c,m}(T)$ = accessibility proportion for SA1 $i$, service category $c$, transport mode $m$, and threshold $T$.
+- $N_{i,c,m}(T)$ = number of destinations in category $c$ reachable within $T$ minutes.
+- $N_c$ = total number of destinations in category $c$ in the study dataset.
 
 ### Step 4: Car Dependency Index
 
