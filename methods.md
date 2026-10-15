@@ -34,7 +34,7 @@ Prepare OpenStreetMap roads for car routing. Combine Metro GTFS schedules with w
 :::
 
 :::{grid-item}
-Calculate origin–destination travel times. Assess access to services within **15, 30 and 45 minutes**.
+Calculate origin–destination travel times. Assess access to services within **30 minutes**.
 :::
 
 :::{grid-item}
