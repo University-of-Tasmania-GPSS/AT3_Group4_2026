@@ -66,42 +66,36 @@ Consequently, the observed relationships describe **area-level accessibility pat
 
 ## 3. Key Findings
 
-:::{grid} 1 1 3 3
+::::{grid} 1 2 3
+:gutter: 3
 
 :::{grid-item}
-:class: takeaway-car
+:class: takeaway-card takeaway-car
 
-**1. High CDI ≠ Good Accessibility**
-
+### 1. High CDI ≠ Good Accessibility
 SA1s with CDI values of 1.000 have different car accessibility scores, including 1.00, 0.77 and 0.01.
 
 **CDI must be interpreted alongside absolute accessibility.**
-
 :::
 
 :::{grid-item}
-:class: takeaway-bus
+:class: takeaway-card takeaway-bus
 
-**2. Public Transport Can Narrow the Accessibility Gap**
-
+### 2. Public Transport Can Narrow the Accessibility Gap
 Parts of northern urban Burnie show smaller differences between car and public bus accessibility.
 
 **Public transport connectivity is important when evaluating accessibility differences.**
-
 :::
 
 :::{grid-item}
-:class: takeaway-equity
+:class: takeaway-card takeaway-equity
 
-**3. Socio-Economic Context Matters**
-
+### 3. Socio-Economic Context Matters
 The CDI–IRSD relationship is positive but varies across SA1s.
 
 **Car dependency alone cannot establish socio-economic disadvantage.**
-
 :::
-
-:::
+::::
 
 ## 4. What This Means for Burnie
 
